@@ -1,0 +1,13 @@
+{
+  "title": "Builders in Fintech: Fintech Funding Rounds, Companies and Investors",
+  "upload_type": "dataset",
+  "description": "Editorially curated, sourced dataset of fintech funding rounds worldwide, with companies and investors. Public export of the Builders in Fintech database (https://buildersinfintech.ai). Amounts are stored in the currency announced and never converted. Coverage from November 2023, refreshed weekly; each monthly release is archived here. Methodology: https://buildersinfintech.ai/methodology",
+  "creators": [
+    { "name": "Mattei, Michele", "affiliation": "Builders in Fintech" }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["fintech", "venture capital", "funding rounds", "startups", "investors"],
+  "related_identifiers": [
+    { "identifier": "https://buildersinfintech.ai/data", "relation": "isSupplementTo", "resource_type": "dataset" }
+  ]
+}
