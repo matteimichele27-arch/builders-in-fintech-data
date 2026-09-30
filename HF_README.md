@@ -1,3 +1,30 @@
+---
+license: cc-by-4.0
+pretty_name: Builders in Fintech — Fintech Funding Rounds, Companies and Investors
+language:
+  - en
+tags:
+  - finance
+  - fintech
+  - venture-capital
+  - funding-rounds
+  - startups
+  - investors
+size_categories:
+  - 1K<n<10K
+configs:
+  - config_name: funding_rounds
+    data_files: data/funding-rounds.csv
+    default: true
+  - config_name: companies
+    data_files: data/companies.csv
+  - config_name: investors
+    data_files: data/investors.csv
+  - config_name: funding_index
+    data_files: data/funding-index.csv
+  - config_name: investor_scorecards
+    data_files: data/investor-scorecards.csv
+---
 
 # Builders in Fintech — Fintech Funding Rounds, Companies and Investors
 
@@ -17,9 +44,10 @@ As of 29 September 2026 it holds 2,164 approved equity rounds across 16 currenci
 
 The exact column names are the first row of each file. A JSON copy of the rounds is at https://buildersinfintech.ai/data/funding-rounds.json.
 
-The same files are published on Hugging Face (`<hf-user>/builders-in-fintech`) and archived on Zenodo with a DOI for each monthly release.
-
-This repository is refreshed every Monday by a GitHub Action (`.github/workflows/refresh.yml`) that downloads the files from https://buildersinfintech.ai/data. Do not edit `data/` by hand.
+```python
+from datasets import load_dataset
+rounds = load_dataset("<hf-user>/builders-in-fintech", "funding_rounds", split="train")
+```
 
 ## How the data is made
 
