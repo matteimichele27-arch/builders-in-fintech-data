@@ -1,0 +1,51 @@
+name: Refresh data
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Mondays 06:00 UTC, after the Sunday-night index snapshot
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      HF_REPO: ${{ vars.HF_REPO }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download files from buildersinfintech.ai
+        run: |
+          mkdir -p data
+          for f in funding-rounds.csv funding-rounds.json companies.csv investors.csv funding-index.csv investor-scorecards.csv; do
+            curl -fsSL --retry 3 -A "BuildersInFintech-DatasetSync/1.0" \
+              "https://buildersinfintech.ai/data/$f" -o "data/$f.tmp"
+            # refuse empty or suspiciously small downloads instead of overwriting good data
+            if [ "$(wc -c < "data/$f.tmp")" -lt 200 ]; then echo "$f too small, aborting"; exit 1; fi
+            mv "data/$f.tmp" "data/$f"
+          done
+
+      - name: Commit if changed
+        run: |
+          git config user.name "dataset-sync"
+          git config user.email "info@buildersinfintech.ai"
+          git add data
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Weekly refresh $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Push to Hugging Face
+        if: env.HF_TOKEN != '' && env.HF_REPO != ''
+        run: |
+          pip install -q huggingface_hub
+          python - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          HfApi(token=os.environ["HF_TOKEN"]).upload_folder(
+              repo_id=os.environ["HF_REPO"], repo_type="dataset",
+              folder_path="data", path_in_repo="data",
+              commit_message="Weekly refresh from buildersinfintech.ai")
+          PY
