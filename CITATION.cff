@@ -8,6 +8,11 @@ authors:
 publisher:
   name: Builders in Fintech
 url: "https://buildersinfintech.ai/data"
+doi: 10.5281/zenodo.23065299
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23065299
+    description: Zenodo archive (all versions, always resolves to the latest release)
 repository-code: "https://github.com/matteimichele27-arch/builders-in-fintech-data"
 license: CC-BY-4.0
 keywords:
@@ -16,3 +21,5 @@ keywords:
   - funding rounds
   - startups
   - investors
+  - podcast
+
