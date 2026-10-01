@@ -20,7 +20,7 @@ jobs:
       - name: Download files from buildersinfintech.ai
         run: |
           mkdir -p data
-          for f in funding-rounds.csv funding-rounds.json companies.csv investors.csv funding-index.csv investor-scorecards.csv; do
+          for f in funding-rounds.csv funding-rounds.json companies.csv investors.csv funding-index.csv investor-scorecards.csv podcast-facts.csv; do
             curl -fsSL --retry 3 -A "BuildersInFintech-DatasetSync/1.0" \
               "https://buildersinfintech.ai/data/$f" -o "data/$f.tmp"
             # refuse empty or suspiciously small downloads instead of overwriting good data
