@@ -1,6 +1,8 @@
 
 # Builders in Fintech — Fintech Funding Rounds, Companies and Investors
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23065299.svg)](https://doi.org/10.5281/zenodo.23065299)
+
 An editorially curated, sourced dataset of fintech funding rounds worldwide, with the companies that raised and the investors that took part. It is the public export of the database behind [Builders in Fintech](https://buildersinfintech.ai), a fintech news publication, weekly newsletter and podcast run by Michele Mattei.
 
 As of 29 September 2026 it holds 2,164 approved equity rounds across 16 currencies and 56 countries, plus debt facilities, fund closes, grants and IPOs recorded as separate categories. Coverage is continuous from November 2023 and refreshed weekly from the live site.
@@ -14,10 +16,11 @@ As of 29 September 2026 it holds 2,164 approved equity rounds across 16 currenci
 | `investors` | `data/investors.csv` | investor organisation |
 | `funding_index` | `data/funding-index.csv` | week of the Builders Fintech Funding Index (round-count index, median USD round size index, coverage flag) |
 | `investor_scorecards` | `data/investor-scorecards.csv` | investor with a 24-month follow-on rate on recorded rounds |
+| `podcast_facts` | `data/podcast-facts.csv` | attributed fact from a Builders in Fintech podcast episode (figure, fact, plan or view), with speaker, linked organisations and a YouTube timestamp link |
 
 The exact column names are the first row of each file. A JSON copy of the rounds is at https://buildersinfintech.ai/data/funding-rounds.json.
 
-The same files are published on Hugging Face (`<hf-user>/builders-in-fintech`) and archived on Zenodo with a DOI for each monthly release.
+The same files are published on Hugging Face ([`buildersinfintech/builders-in-fintech`](https://huggingface.co/datasets/buildersinfintech/builders-in-fintech)) and archived on Zenodo with a DOI for each monthly release: https://doi.org/10.5281/zenodo.23065299
 
 This repository is refreshed every Monday by a GitHub Action (`.github/workflows/refresh.yml`) that downloads the files from https://buildersinfintech.ai/data. Do not edit `data/` by hand.
 
@@ -39,6 +42,7 @@ Full methodology: https://buildersinfintech.ai/methodology
 - A company's first round in this dataset may not be its first round ever.
 - Funding Index weeks flagged `coverage_affected` overstate activity: round capture increased in September 2026, and the flag clears once the 12-week baseline reflects the new coverage (mid-December 2026).
 - Follow-on rates count only rounds we recorded, so true rates are likely higher.
+- Podcast facts are an editorial extraction from episode recordings, not transcripts. A few episodes are based on the host's episode notes rather than full audio; these are marked on the episode page.
 
 ## Other ways to access it
 
@@ -57,7 +61,7 @@ CC BY 4.0. Attribute "Builders in Fintech" and link to https://buildersinfintech
   year      = {2026},
   publisher = {Builders in Fintech},
   url       = {https://buildersinfintech.ai/data},
-  doi       = {<Zenodo DOI once minted>}
+  doi       = {10.5281/zenodo.23065299}
 }
 ```
 
