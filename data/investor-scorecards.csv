@@ -1,4 +1,115 @@
 investor,slug,window_months,eligible_companies,followed_companies,follow_on_rate,median_months_to_next_round,gap_days,computed_at
-Y Combinator,y-combinator,24,15,3,0.2,18.2,60,2026-10-05T02:30:00.233646+00:00
-Andreessen Horowitz,andreessen-horowitz,24,10,3,0.3,18.9,60,2026-10-05T02:30:00.233646+00:00
-QED Investors,qed-investors,24,10,1,0.1,11.7,60,2026-10-05T02:30:00.233646+00:00
+Accel,accel,24,65,26,0.4,10.1,60,2026-10-12T02:30:00.227169+00:00
+Andreessen Horowitz,andreessen-horowitz,24,61,12,0.1967,16.8,60,2026-10-12T02:30:00.227169+00:00
+Insight Partners,insight-partners,24,59,10,0.1695,6.2,60,2026-10-12T02:30:00.227169+00:00
+Tiger Global,tiger-global,24,56,14,0.25,6.1,60,2026-10-12T02:30:00.227169+00:00
+Ribbit Capital,ribbit-capital,24,44,18,0.4091,7.7,60,2026-10-12T02:30:00.227169+00:00
+Ventures,ventures,24,41,9,0.2195,10.3,60,2026-10-12T02:30:00.227169+00:00
+Goldman Sachs,goldman-sachs,24,39,12,0.3077,15.2,60,2026-10-12T02:30:00.227169+00:00
+Y Combinator,y-combinator,24,39,11,0.2821,13.1,60,2026-10-12T02:30:00.227169+00:00
+General Catalyst,general-catalyst,24,37,13,0.3514,8.7,60,2026-10-12T02:30:00.227169+00:00
+Partners,partners,24,35,8,0.2286,6.3,60,2026-10-12T02:30:00.227169+00:00
+Index Ventures,index-ventures,24,34,14,0.4118,11.8,60,2026-10-12T02:30:00.227169+00:00
+Sequoia Capital,sequoia-capital,24,34,13,0.3824,6.3,60,2026-10-12T02:30:00.227169+00:00
+Speedinvest,speedinvest,24,30,6,0.2,17.1,60,2026-10-12T02:30:00.227169+00:00
+Global Founders Capital,global-founders-capital,24,29,7,0.2414,12,60,2026-10-12T02:30:00.227169+00:00
+Tiger Global Management,tiger-global-management,24,27,11,0.4074,5.1,60,2026-10-12T02:30:00.227169+00:00
+Valar Ventures,valar-ventures,24,27,16,0.5926,7,60,2026-10-12T02:30:00.227169+00:00
+Bain Capital Ventures,bain-capital-ventures,24,23,8,0.3478,14.5,60,2026-10-12T02:30:00.227169+00:00
+Bessemer Venture Partners,bessemer-venture-partners,24,23,6,0.2609,11.2,60,2026-10-12T02:30:00.227169+00:00
+Mastercard,mastercard,24,23,6,0.2609,7.7,60,2026-10-12T02:30:00.227169+00:00
+Seedcamp,seedcamp,24,23,7,0.3043,17.6,60,2026-10-12T02:30:00.227169+00:00
+Spark Capital,spark-capital,24,23,14,0.6087,13,60,2026-10-12T02:30:00.227169+00:00
+DST Global,dst-global,24,22,14,0.6364,12.9,60,2026-10-12T02:30:00.227169+00:00
+Founders Fund,founders-fund,24,22,7,0.3182,7.7,60,2026-10-12T02:30:00.227169+00:00
+Coatue,coatue,24,21,8,0.381,5.4,60,2026-10-12T02:30:00.227169+00:00
+Lightspeed,lightspeed,24,21,9,0.4286,12.2,60,2026-10-12T02:30:00.227169+00:00
+Lightspeed Venture Partners,lightspeed-venture-partners,24,21,6,0.2857,8.4,60,2026-10-12T02:30:00.227169+00:00
+LocalGlobe,localglobe,24,21,8,0.381,10,60,2026-10-12T02:30:00.227169+00:00
+Target Global,target-global,24,21,8,0.381,10,60,2026-10-12T02:30:00.227169+00:00
+TTV Capital,ttv-capital,24,21,5,0.2381,12,60,2026-10-12T02:30:00.227169+00:00
+Capital,capital,24,20,8,0.4,10.2,60,2026-10-12T02:30:00.227169+00:00
+Menlo Ventures,menlo-ventures,24,20,8,0.4,11.2,60,2026-10-12T02:30:00.227169+00:00
+Point72 Ventures,point72-ventures,24,20,4,0.2,12.3,60,2026-10-12T02:30:00.227169+00:00
+Balderton Capital,balderton-capital,24,19,6,0.3158,14.2,60,2026-10-12T02:30:00.227169+00:00
+Octopus Ventures,octopus-ventures,24,19,7,0.3684,13.8,60,2026-10-12T02:30:00.227169+00:00
+Stripe,stripe,24,19,8,0.4211,10.9,60,2026-10-12T02:30:00.227169+00:00
+Tencent,tencent,24,19,11,0.5789,16.3,60,2026-10-12T02:30:00.227169+00:00
+Visa,visa,24,19,6,0.3158,11,60,2026-10-12T02:30:00.227169+00:00
+GGV Capital,ggv-capital,24,18,5,0.2778,13.6,60,2026-10-12T02:30:00.227169+00:00
+Greycroft,greycroft,24,18,7,0.3889,7.6,60,2026-10-12T02:30:00.227169+00:00
+Citi,citi,24,17,4,0.2353,18.7,60,2026-10-12T02:30:00.227169+00:00
+Paradigm,paradigm,24,17,5,0.2941,5.4,60,2026-10-12T02:30:00.227169+00:00
+Sequoia,sequoia,24,17,5,0.2941,12.4,60,2026-10-12T02:30:00.227169+00:00
+SoftBank,softbank,24,17,5,0.2941,17.5,60,2026-10-12T02:30:00.227169+00:00
+Coinbase Ventures,coinbase-ventures,24,16,6,0.375,6.9,60,2026-10-12T02:30:00.227169+00:00
+CommerzVentures,commerzventures,24,16,2,0.125,14.4,60,2026-10-12T02:30:00.227169+00:00
+Kleiner Perkins,kleiner-perkins,24,16,6,0.375,15.3,60,2026-10-12T02:30:00.227169+00:00
+NEA,nea,24,16,4,0.25,5.3,60,2026-10-12T02:30:00.227169+00:00
+Nyca Partners,nyca-partners,24,16,5,0.3125,7,60,2026-10-12T02:30:00.227169+00:00
+Polychain Capital,polychain-capital,24,16,2,0.125,13.9,60,2026-10-12T02:30:00.227169+00:00
+Sequoia India,sequoia-india,24,16,7,0.4375,10.8,60,2026-10-12T02:30:00.227169+00:00
+Silicon Valley Bank,silicon-valley-bank,24,16,4,0.25,12.1,60,2026-10-12T02:30:00.227169+00:00
+Thrive Capital,thrive-capital,24,16,10,0.625,9.6,60,2026-10-12T02:30:00.227169+00:00
+BlackRock,blackrock,24,15,2,0.1333,9.2,60,2026-10-12T02:30:00.227169+00:00
+Citi Ventures,citi-ventures,24,15,2,0.1333,9.2,60,2026-10-12T02:30:00.227169+00:00
+Commerce Ventures,commerce-ventures,24,15,4,0.2667,8.6,60,2026-10-12T02:30:00.227169+00:00
+Fund,fund,24,15,4,0.2667,14.9,60,2026-10-12T02:30:00.227169+00:00
+Pantera Capital,pantera-capital,24,15,2,0.1333,8.8,60,2026-10-12T02:30:00.227169+00:00
+Partech,partech,24,15,7,0.4667,11.6,60,2026-10-12T02:30:00.227169+00:00
+Union Square Ventures,union-square-ventures,24,15,6,0.4,12.5,60,2026-10-12T02:30:00.227169+00:00
+Animoca Brands,animoca-brands,24,14,1,0.0714,3.8,60,2026-10-12T02:30:00.227169+00:00
+CEO,ceo,24,14,0,0,,60,2026-10-12T02:30:00.227169+00:00
+Creandum,creandum,24,14,9,0.6429,13.1,60,2026-10-12T02:30:00.227169+00:00
+Dawn Capital,dawn-capital,24,14,3,0.2143,4.6,60,2026-10-12T02:30:00.227169+00:00
+Northzone,northzone,24,14,7,0.5,11,60,2026-10-12T02:30:00.227169+00:00
+Sequoia Capital India,sequoia-capital-india,24,14,2,0.1429,4.4,60,2026-10-12T02:30:00.227169+00:00
+SV Angel,sv-angel,24,14,6,0.4286,7.7,60,2026-10-12T02:30:00.227169+00:00
+Battery Ventures,battery-ventures,24,13,2,0.1538,18.8,60,2026-10-12T02:30:00.227169+00:00
+Endeavor Catalyst,endeavor-catalyst,24,13,2,0.1538,19.4,60,2026-10-12T02:30:00.227169+00:00
+Gaingels,gaingels,24,13,1,0.0769,18.2,60,2026-10-12T02:30:00.227169+00:00
+Gradient Ventures,gradient-ventures,24,13,4,0.3077,14.1,60,2026-10-12T02:30:00.227169+00:00
+Jump Capital,jump-capital,24,13,2,0.1538,10.3,60,2026-10-12T02:30:00.227169+00:00
+KKR,kkr,24,13,3,0.2308,16.3,60,2026-10-12T02:30:00.227169+00:00
+Notion Capital,notion-capital,24,13,4,0.3077,18,60,2026-10-12T02:30:00.227169+00:00
+Quona Capital,quona-capital,24,13,3,0.2308,7.9,60,2026-10-12T02:30:00.227169+00:00
+Temasek,temasek,24,13,5,0.3846,17.7,60,2026-10-12T02:30:00.227169+00:00
+the US,the-us,24,13,5,0.3846,10.5,60,2026-10-12T02:30:00.227169+00:00
+Vertex Ventures,vertex-ventures,24,13,4,0.3077,10.3,60,2026-10-12T02:30:00.227169+00:00
+Anthemis Group,anthemis-group,24,12,3,0.25,12.9,60,2026-10-12T02:30:00.227169+00:00
+Crosslink Capital,crosslink-capital,24,12,1,0.0833,3.3,60,2026-10-12T02:30:00.227169+00:00
+Currency Group,currency-group,24,12,2,0.1667,12.7,60,2026-10-12T02:30:00.227169+00:00
+Foundation Capital,foundation-capital,24,12,0,0,,60,2026-10-12T02:30:00.227169+00:00
+General Atlantic,general-atlantic,24,12,4,0.3333,17.7,60,2026-10-12T02:30:00.227169+00:00
+GIC,gic,24,12,5,0.4167,6.2,60,2026-10-12T02:30:00.227169+00:00
+Goodwater Capital,goodwater-capital,24,12,6,0.5,11.5,60,2026-10-12T02:30:00.227169+00:00
+IFC,ifc,24,12,4,0.3333,4.8,60,2026-10-12T02:30:00.227169+00:00
+J.P. Morgan,j-p-morgan,24,12,3,0.25,7.2,60,2026-10-12T02:30:00.227169+00:00
+MassMutual Ventures,massmutual-ventures,24,12,0,0,,60,2026-10-12T02:30:00.227169+00:00
+PayPal,paypal,24,12,3,0.25,7.6,60,2026-10-12T02:30:00.227169+00:00
+Santander InnoVentures,santander-innoventures,24,12,6,0.5,19.5,60,2026-10-12T02:30:00.227169+00:00
+Social Capital,social-capital,24,12,5,0.4167,8.7,60,2026-10-12T02:30:00.227169+00:00
+83North,83north,24,11,5,0.4545,5.8,60,2026-10-12T02:30:00.227169+00:00
+Bain Capital,bain-capital,24,11,1,0.0909,8.9,60,2026-10-12T02:30:00.227169+00:00
+Collective,collective,24,11,4,0.3636,12.8,60,2026-10-12T02:30:00.227169+00:00
+Entrée Capital,entree-capital,24,11,6,0.5455,10.8,60,2026-10-12T02:30:00.227169+00:00
+EQT Ventures,eqt-ventures,24,11,3,0.2727,19.6,60,2026-10-12T02:30:00.227169+00:00
+Gateway,gateway,24,11,4,0.3636,9.3,60,2026-10-12T02:30:00.227169+00:00
+Insight Venture Partners,insight-venture-partners,24,11,4,0.3636,10.8,60,2026-10-12T02:30:00.227169+00:00
+Kaszek,kaszek,24,11,3,0.2727,13.2,60,2026-10-12T02:30:00.227169+00:00
+Khosla Ventures,khosla-ventures,24,11,3,0.2727,14.3,60,2026-10-12T02:30:00.227169+00:00
+MMC Ventures,mmc-ventures,24,11,0,0,,60,2026-10-12T02:30:00.227169+00:00
+PayPal Ventures,paypal-ventures,24,11,3,0.2727,12.3,60,2026-10-12T02:30:00.227169+00:00
+Tribe Capital,tribe-capital,24,11,3,0.2727,17.4,60,2026-10-12T02:30:00.227169+00:00
+Addition,addition,24,10,6,0.6,3.8,60,2026-10-12T02:30:00.227169+00:00
+Enterprise Associates,enterprise-associates,24,10,2,0.2,8.7,60,2026-10-12T02:30:00.227169+00:00
+Entrepreneur First,entrepreneur-first,24,10,2,0.2,15.6,60,2026-10-12T02:30:00.227169+00:00
+Evolution Equity Partners,evolution-equity-partners,24,10,1,0.1,5.5,60,2026-10-12T02:30:00.227169+00:00
+FTV Capital,ftv-capital,24,10,0,0,,60,2026-10-12T02:30:00.227169+00:00
+Jump Crypto,jump-crypto,24,10,2,0.2,15.7,60,2026-10-12T02:30:00.227169+00:00
+Matrix Partners,matrix-partners,24,10,2,0.2,11.2,60,2026-10-12T02:30:00.227169+00:00
+Mosaic Ventures,mosaic-ventures,24,10,3,0.3,9.9,60,2026-10-12T02:30:00.227169+00:00
+QED Investors,qed-investors,24,10,1,0.1,11.7,60,2026-10-12T02:30:00.227169+00:00
+Slow Ventures,slow-ventures,24,10,1,0.1,21.2,60,2026-10-12T02:30:00.227169+00:00
+Techstars,techstars,24,10,2,0.2,10.9,60,2026-10-12T02:30:00.227169+00:00
+Viola,viola,24,10,1,0.1,19.5,60,2026-10-12T02:30:00.227169+00:00
