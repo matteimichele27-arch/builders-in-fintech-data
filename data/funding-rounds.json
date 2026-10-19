@@ -1,9 +1,633 @@
 {
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "Builders in Fintech (buildersinfintech.ai)",
-  "generated_at": "2026-10-12T06:09:51.615Z",
-  "count": 9785,
+  "generated_at": "2026-10-19T06:23:26.292Z",
+  "count": 9757,
   "rows": [
+    {
+      "round_id": "05f4daae-5ab3-45a9-8689-8bd08cfe2f3d",
+      "company_name": "DoorDash",
+      "company_url": "https://buildersinfintech.ai/companies/doordash",
+      "round_type": "Fund V (final close)",
+      "category": "equity",
+      "amount": 333000000,
+      "currency": "USD",
+      "announced_at": "2026-10-17",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://buildersinfintech.ai/news/pear-vc-closes-a-333m-fund-v-smaller-than-its-432m-fund-iv-and-promotes-three-partners-to-gp",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-18T18:08:26.716322+00:00"
+    },
+    {
+      "round_id": "eb523e98-c147-4867-a1ab-40cadaa8d7f0",
+      "company_name": "Brandwatch",
+      "company_url": "https://buildersinfintech.ai/companies/brandwatch",
+      "round_type": "Fund VI (first close)",
+      "category": "equity",
+      "amount": 60000000,
+      "currency": "EUR",
+      "announced_at": "2026-10-17",
+      "country": null,
+      "lead_investors": "British Business Bank",
+      "investors": "British Business Bank; Institut Català de Finances; Merifin Capital; SETT",
+      "source_url": "https://buildersinfintech.ai/news/nauta-capital-reaches-a-60m-first-close-on-fund-vi-anchored-by-the-british-business-bank-for-the-fourth-fund-in-a-row",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-18T18:08:27.455045+00:00"
+    },
+    {
+      "round_id": "59258913-ef69-4e73-8cac-e319fb4a3a3a",
+      "company_name": "Stand",
+      "company_url": "https://buildersinfintech.ai/companies/stand",
+      "round_type": "Series C",
+      "category": "equity",
+      "amount": 1000000000,
+      "currency": "USD",
+      "announced_at": "2026-10-16",
+      "country": null,
+      "lead_investors": null,
+      "investors": "Equal Ventures; Inspired Capital; Jackson Square Ventures",
+      "source_url": "https://fintech.global/2026/10/16/stand-hits-1bn-valuation-with-70m-series-c-raise/",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-17T09:49:15.221576+00:00"
+    },
+    {
+      "round_id": "8043fb57-8ce8-4827-9ece-95c9e3bbaa79",
+      "company_name": "Huhtamaki",
+      "company_url": "https://buildersinfintech.ai/companies/huhtamaki",
+      "round_type": "Revolving credit facility",
+      "category": "debt",
+      "amount": 450000000,
+      "currency": "EUR",
+      "announced_at": "2026-10-16",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://www.prnewswire.com/news-releases/huhtamaki-extends-the-maturity-of-eur-450-million-sustainability-linked-syndicated-revolving-credit-facility-for-a-further-period-of-one-year-302911129.html",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-17T09:48:58.180144+00:00"
+    },
+    {
+      "round_id": "d6a7a043-b408-44d6-bc27-11e5c5543956",
+      "company_name": "Zaria Systems",
+      "company_url": "https://buildersinfintech.ai/companies/zaria-systems",
+      "round_type": "Seed",
+      "category": "equity",
+      "amount": 5200000,
+      "currency": "USD",
+      "announced_at": "2026-10-16",
+      "country": null,
+      "lead_investors": "Lightspeed Venture Partners",
+      "investors": "Lightspeed Venture Partners",
+      "source_url": "https://buildersinfintech.ai/news/zaria-systems-raises-a-5-2m-seed-led-by-lightspeed-as-it-applies-for-a-national-trust-bank-charter",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-18T18:08:24.724209+00:00"
+    },
+    {
+      "round_id": "ec1c59a1-0db9-431a-b4d6-bc0049288b23",
+      "company_name": "Zaria",
+      "company_url": "https://buildersinfintech.ai/companies/zaria",
+      "round_type": "Seed",
+      "category": "equity",
+      "amount": 5200000,
+      "currency": "USD",
+      "announced_at": "2026-10-16",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://fintech.global/2026/10/16/zaria-bags-5-2m-to-scale-structured-finance-infrastructure/",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-17T09:48:51.153856+00:00"
+    },
+    {
+      "round_id": "f30f43c0-ff48-4cbe-be78-9b4508803f2d",
+      "company_name": "Wiremind",
+      "company_url": "https://buildersinfintech.ai/companies/wiremind",
+      "round_type": null,
+      "category": "equity",
+      "amount": 35000000,
+      "currency": "EUR",
+      "announced_at": "2026-10-16",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://www.fintechfutures.com/venture-capital-funding/wiremind-raises-35m-first-funding-round",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-17T09:49:18.917575+00:00"
+    },
+    {
+      "round_id": "0947263f-3f54-4ed7-9b3e-25d051e3f91e",
+      "company_name": "Multiliquid",
+      "company_url": "https://buildersinfintech.ai/companies/multiliquid",
+      "round_type": "Pre-seed",
+      "category": "equity",
+      "amount": 8000000,
+      "currency": "USD",
+      "announced_at": "2026-10-15",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:08:43.06139+00:00"
+    },
+    {
+      "round_id": "4671a6b8-0727-46f9-a782-94c3777517ba",
+      "company_name": "Matters",
+      "company_url": "https://buildersinfintech.ai/companies/matters",
+      "round_type": "Pre-seed",
+      "category": "equity",
+      "amount": 5000000,
+      "currency": "USD",
+      "announced_at": "2026-10-15",
+      "country": "Sweden",
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://buildersinfintech.ai/news/matters-exits-stealth-with-a-5m-pre-seed-to-build-an-ai-native-consumer-bank-in-stockholm",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:07:17.005625+00:00"
+    },
+    {
+      "round_id": "4e571d11-3883-4d92-8df1-0d277a89ad5b",
+      "company_name": "Reach Security",
+      "company_url": "https://buildersinfintech.ai/companies/reach-security",
+      "round_type": "Series B",
+      "category": "equity",
+      "amount": 50000000,
+      "currency": "USD",
+      "announced_at": "2026-10-15",
+      "country": null,
+      "lead_investors": null,
+      "investors": "In-Q-Tel; M12",
+      "source_url": "https://fintech.global/2026/10/15/reach-securitys-50m-bet-on-machine-speed-cyber-defence/",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:07:43.864523+00:00"
+    },
+    {
+      "round_id": "88ab2fd7-b294-463f-a0b8-5d16c60fe02f",
+      "company_name": "Harmonic Security",
+      "company_url": "https://buildersinfintech.ai/companies/harmonic-security",
+      "round_type": "Series B",
+      "category": "equity",
+      "amount": 50000000,
+      "currency": "USD",
+      "announced_at": "2026-10-15",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://fintech.global/2026/10/15/harmonic-security-bags-50m-as-boards-demand-ai-proof/",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:07:47.342427+00:00"
+    },
+    {
+      "round_id": "900547e0-de28-43fc-80b6-7c86f6d28be9",
+      "company_name": "Saber Money",
+      "company_url": "https://buildersinfintech.ai/companies/saber-money",
+      "round_type": "Strategic round",
+      "category": "equity",
+      "amount": null,
+      "currency": null,
+      "announced_at": "2026-10-15",
+      "country": "United States",
+      "lead_investors": null,
+      "investors": "Tether; Titan Fund",
+      "source_url": "https://buildersinfintech.ai/news/saber-money-raises-strategic-funding-from-tether-and-cmcc-global-s-titan-fund-to-expand-stablecoin-payments-into-asia-pa",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-17T09:49:05.383361+00:00"
+    },
+    {
+      "round_id": "c1fa08b1-9929-4d08-a35b-d7ea5f029abd",
+      "company_name": "Chariot Claims",
+      "company_url": "https://buildersinfintech.ai/companies/chariot-claims",
+      "round_type": "Series A",
+      "category": "equity",
+      "amount": 10000000,
+      "currency": "USD",
+      "announced_at": "2026-10-15",
+      "country": "United States",
+      "lead_investors": "Silverton Partners",
+      "investors": "Silverton Partners; Alumni Ventures; FJ Labs; Graph Ventures; Indicator Ventures; LightBank; Neon Fund; Rosecliff Ventures; Vermilion Ventures; ZVC",
+      "source_url": "https://buildersinfintech.ai/news/chariot-claims-raises-a-10m-series-a-led-by-silverton-partners-to-help-consumers-claim-compensation-over-hidden-fees-and",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-17T09:49:00.107109+00:00"
+    },
+    {
+      "round_id": "ce2b776f-bbd3-4318-8a74-ddfbd6fbeadb",
+      "company_name": "Fission",
+      "company_url": "https://buildersinfintech.ai/companies/fission",
+      "round_type": "Series A",
+      "category": "equity",
+      "amount": 10000000,
+      "currency": "USD",
+      "announced_at": "2026-10-15",
+      "country": "United States",
+      "lead_investors": "Pantera Capital",
+      "investors": "Pantera Capital; Borderless Capital; Circle Ventures; Gumi Cryptos Capital; New Form",
+      "source_url": "https://buildersinfintech.ai/news/fission-raises-a-10m-series-a-led-by-pantera-capital-to-give-tokenised-fund-investors-a-faster-exit",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:07:14.533187+00:00"
+    },
+    {
+      "round_id": "ceb87dc9-9c77-449a-a0d7-389b4ea6ec74",
+      "company_name": "Fruga",
+      "company_url": "https://buildersinfintech.ai/companies/fruga",
+      "round_type": null,
+      "category": "equity",
+      "amount": 1000000,
+      "currency": "GBP",
+      "announced_at": "2026-10-15",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://fintech.global/2026/10/15/fruga-raises-1m-to-cut-the-cost-of-insurance-renewals/",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:07:26.399433+00:00"
+    },
+    {
+      "round_id": "d7ec4490-0d66-4fe9-aeda-b49b6aed38d5",
+      "company_name": "Neonomics",
+      "company_url": "https://buildersinfintech.ai/companies/neonomics",
+      "round_type": "undisclosed",
+      "category": "equity",
+      "amount": 4000000,
+      "currency": "USD",
+      "announced_at": "2026-10-15",
+      "country": "Norway",
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://buildersinfintech.ai/news/neonomics-raises-4m-from-existing-shareholders-after-cutting-its-cost-base-by-almost-half",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:07:18.233704+00:00"
+    },
+    {
+      "round_id": "dc8c29a9-3b59-4311-a1b5-c7982b18fd86",
+      "company_name": "Fruga",
+      "company_url": "https://buildersinfintech.ai/companies/fruga",
+      "round_type": "undisclosed",
+      "category": "equity",
+      "amount": 1000000,
+      "currency": "GBP",
+      "announced_at": "2026-10-15",
+      "country": null,
+      "lead_investors": null,
+      "investors": "Haatch; NPIF II – PXN Equity Finance",
+      "source_url": "https://buildersinfintech.ai/news/fruga-raises-1m-to-turn-everyday-card-spending-into-discounts-on-insurance-renewals",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-17T09:49:03.26556+00:00"
+    },
+    {
+      "round_id": "fb1c7817-c0d7-491c-bd14-fe37b9a9d994",
+      "company_name": "Clearinghouse CDFI",
+      "company_url": "https://buildersinfintech.ai/companies/clearinghouse-cdfi",
+      "round_type": null,
+      "category": "equity",
+      "amount": 100000000,
+      "currency": "USD",
+      "announced_at": "2026-10-15",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://www.prnewswire.com/news-releases/clearinghouse-cdfi-secures-100-million-from-us-treasury-bond-guarantee-program-to-finance-community-development-nationwide-302909299.html",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:07:32.919315+00:00"
+    },
+    {
+      "round_id": "013fe872-92ae-4c22-9a24-bf06d5cf29d6",
+      "company_name": "Salary Hero",
+      "company_url": "https://buildersinfintech.ai/companies/salary-hero",
+      "round_type": "Series A",
+      "category": "equity",
+      "amount": 7600000,
+      "currency": "USD",
+      "announced_at": "2026-10-14",
+      "country": "Thailand",
+      "lead_investors": "Cento Ventures",
+      "investors": "Cento Ventures; Kairous Capital; M Venture Partners",
+      "source_url": "https://buildersinfintech.ai/news/salary-hero-raises-a-7-6m-series-a-led-by-cento-ventures-and-expands-its-credit-facility-to-10m-to-enter-malaysia",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-15T08:12:33.405791+00:00"
+    },
+    {
+      "round_id": "190f2cad-f38c-4579-84f7-8326e0b0428e",
+      "company_name": "EasyA",
+      "company_url": "https://buildersinfintech.ai/companies/easya",
+      "round_type": "IPO",
+      "category": "ipo",
+      "amount": 1100000000,
+      "currency": "USD",
+      "announced_at": "2026-10-14",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:08:46.558577+00:00"
+    },
+    {
+      "round_id": "1dff90e3-48a8-4012-9fc3-ec2f52773419",
+      "company_name": "RedOwl",
+      "company_url": "https://buildersinfintech.ai/companies/redowl",
+      "round_type": "Seed",
+      "category": "equity",
+      "amount": 5300000,
+      "currency": "USD",
+      "announced_at": "2026-10-14",
+      "country": null,
+      "lead_investors": "Tidal Ventures",
+      "investors": "Tidal Ventures",
+      "source_url": "https://fintech.global/2026/10/14/tidal-ventures-leads-5-3m-seed-round-for-redowl/",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:08:51.466374+00:00"
+    },
+    {
+      "round_id": "351fad6e-8ada-4204-add4-32eaaca7083c",
+      "company_name": "Mogul",
+      "company_url": "https://buildersinfintech.ai/companies/mogul",
+      "round_type": "Series A",
+      "category": "equity",
+      "amount": 15500000,
+      "currency": "USD",
+      "announced_at": "2026-10-14",
+      "country": null,
+      "lead_investors": "Draper Associates",
+      "investors": "Draper Associates; Avalanche Blizzard Fund; Draper Dragon; Gaingels; LAUNCH; Venture Togethers",
+      "source_url": "https://buildersinfintech.ai/news/mogul-raises-a-15-5m-series-a-led-by-draper-associates-at-a-126m-valuation",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-15T08:12:31.954735+00:00"
+    },
+    {
+      "round_id": "3d9ee61f-0226-45a9-946e-b887507adf8b",
+      "company_name": "Zippy",
+      "company_url": "https://buildersinfintech.ai/companies/zippy",
+      "round_type": "Series C",
+      "category": "equity",
+      "amount": 20000000,
+      "currency": "USD",
+      "announced_at": "2026-10-14",
+      "country": null,
+      "lead_investors": "Saluda Grade",
+      "investors": "Saluda Grade",
+      "source_url": "https://buildersinfintech.ai/news/zippy-raises-a-20m-series-c-from-saluda-grade-to-scale-manufactured-housing-lending",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-15T08:12:31.163354+00:00"
+    },
+    {
+      "round_id": "5c3b996b-f949-432b-9361-f1ba0e378420",
+      "company_name": "Funding Souq",
+      "company_url": "https://buildersinfintech.ai/companies/funding-souq",
+      "round_type": "Crowdfunding",
+      "category": "equity",
+      "amount": 1000000000,
+      "currency": "USD",
+      "announced_at": "2026-10-14",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "http://wamda.com/2026/10/foodics-invests-funding-souq-expand-restaurant-financing-ksa-uae",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:08:58.057745+00:00"
+    },
+    {
+      "round_id": "685accac-debd-4cfe-bd74-49255192ba1e",
+      "company_name": "Sterling Bank",
+      "company_url": "https://buildersinfintech.ai/companies/sterling-bank",
+      "round_type": "Credit guarantee fund (target size)",
+      "category": "equity",
+      "amount": 200000000,
+      "currency": "USD",
+      "announced_at": "2026-10-14",
+      "country": "Nigeria",
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://buildersinfintech.ai/news/cascador-and-sterling-bank-launch-a-200m-credit-backstop-fund-to-help-nigerian-startups-get-bank-loans",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-15T08:12:34.302016+00:00"
+    },
+    {
+      "round_id": "9c505cd3-e359-4c74-9347-ace7909f1126",
+      "company_name": "Fragment",
+      "company_url": "https://buildersinfintech.ai/companies/fragment",
+      "round_type": "Series A",
+      "category": "equity",
+      "amount": 12000000,
+      "currency": "USD",
+      "announced_at": "2026-10-14",
+      "country": null,
+      "lead_investors": "FirstMark",
+      "investors": "FirstMark; BoxGroup",
+      "source_url": "https://buildersinfintech.ai/news/fragment-raises-a-12m-series-a-led-by-firstmark-for-financial-infrastructure-built-for-ai-agents",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-15T08:12:32.729288+00:00"
+    },
+    {
+      "round_id": "ab65e693-199e-4646-933b-76e41cf2dab9",
+      "company_name": "The Entrepreneurial Refugee Network",
+      "company_url": "https://buildersinfintech.ai/companies/the-entrepreneurial-refugee-network",
+      "round_type": "Fund launch (initial capital)",
+      "category": "equity",
+      "amount": 300000,
+      "currency": "GBP",
+      "announced_at": "2026-10-14",
+      "country": "United Kingdom",
+      "lead_investors": null,
+      "investors": "Atomico",
+      "source_url": "https://buildersinfintech.ai/news/the-refugee-venture-fund-launches-in-the-uk-with-300-000-backed-by-atomico",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-15T08:12:35.671637+00:00"
+    },
+    {
+      "round_id": "138775b4-6584-45c9-8ef0-dbf6194b925b",
+      "company_name": "Archa",
+      "company_url": "https://buildersinfintech.ai/companies/archa",
+      "round_type": "Equity round and debt facility",
+      "category": "equity",
+      "amount": 61000000,
+      "currency": "AUD",
+      "announced_at": "2026-10-13",
+      "country": null,
+      "lead_investors": null,
+      "investors": "The Fintech Fund",
+      "source_url": "https://buildersinfintech.ai/news/archa-raises-a-11m-in-equity-and-secures-a-a-50m-debt-facility-for-business-credit-without-personal-guarantees",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-14T09:32:38.237488+00:00"
+    },
+    {
+      "round_id": "4563bcf7-a003-4539-a85f-7d80f49312a1",
+      "company_name": "RedOwl",
+      "company_url": "https://buildersinfintech.ai/companies/redowl",
+      "round_type": "Seed",
+      "category": "equity",
+      "amount": 5300000,
+      "currency": "AUD",
+      "announced_at": "2026-10-13",
+      "country": null,
+      "lead_investors": "Tidal Ventures",
+      "investors": "Tidal Ventures; CP Ventures",
+      "source_url": "https://buildersinfintech.ai/news/redowl-raises-an-a-5-3m-seed-led-by-tidal-ventures-at-a-valuation-close-to-a-40m",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-18T18:08:25.894512+00:00"
+    },
+    {
+      "round_id": "93789ffc-0985-45fd-86db-9c6187eff943",
+      "company_name": "Causa Prima",
+      "company_url": "https://buildersinfintech.ai/companies/causa-prima",
+      "round_type": "Seed",
+      "category": "equity",
+      "amount": 20000000,
+      "currency": "USD",
+      "announced_at": "2026-10-13",
+      "country": "Spain",
+      "lead_investors": "Base10 Partners",
+      "investors": "Base10 Partners; Borusan Ventures; Creandum; FJ Labs; Kfund; QED Investors",
+      "source_url": "https://buildersinfintech.ai/news/causa-prima-raises-a-20m-seed-led-by-base10-three-months-after-a-10m-pre-seed",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-14T09:32:40.58931+00:00"
+    },
+    {
+      "round_id": "9e38183a-12c6-4fa7-a71b-4caa2e570b94",
+      "company_name": "reebuild",
+      "company_url": "https://buildersinfintech.ai/companies/reebuild",
+      "round_type": "Seed",
+      "category": "equity",
+      "amount": 3000000,
+      "currency": "EUR",
+      "announced_at": "2026-10-13",
+      "country": "Austria",
+      "lead_investors": "Fortino Ventures",
+      "investors": "Fortino Ventures; Curiosity VC; Rise PropTech",
+      "source_url": "https://buildersinfintech.ai/news/reebuild-raises-a-3m-seed-led-by-fortino-ventures-to-automate-financial-back-office-work-in-construction",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-14T09:32:43.266005+00:00"
+    },
+    {
+      "round_id": "e91eed80-e108-4d24-b30a-0e749dd75734",
+      "company_name": "ID Finance",
+      "company_url": "https://buildersinfintech.ai/companies/id-finance",
+      "round_type": "Debt and equity",
+      "category": "equity",
+      "amount": 545000000,
+      "currency": "EUR",
+      "announced_at": "2026-10-13",
+      "country": null,
+      "lead_investors": null,
+      "investors": "i80 Group; Kingsway Capital; Spice Expeditions; WashU",
+      "source_url": "https://buildersinfintech.ai/news/id-finance-raises-545m-in-debt-and-equity-to-scale-its-plazo-app-in-spain",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-14T09:32:36.447117+00:00"
+    },
+    {
+      "round_id": "f15e74b1-688e-4bc7-98fe-f2f8c7030797",
+      "company_name": "Kuunda",
+      "company_url": "https://buildersinfintech.ai/companies/kuunda",
+      "round_type": "Secondary sale",
+      "category": "equity",
+      "amount": 5000000,
+      "currency": "USD",
+      "announced_at": "2026-10-13",
+      "country": null,
+      "lead_investors": "E4E Africa",
+      "investors": "E4E Africa; Accion Ventures; Portugal Gateway Fund; Seedstars Africa Ventures",
+      "source_url": "https://buildersinfintech.ai/news/kuunda-completes-a-5m-secondary-share-sale-led-by-e4e-africa-as-early-backers-exit-with-irrs-above-70",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-17T09:49:01.546023+00:00"
+    },
+    {
+      "round_id": "5377ea60-f4c7-4e1a-9d92-0d9e130f38d9",
+      "company_name": "Airtel Money",
+      "company_url": "https://buildersinfintech.ai/companies/airtel-money",
+      "round_type": "IPO",
+      "category": "ipo",
+      "amount": 7000000000,
+      "currency": "USD",
+      "announced_at": "2026-10-12",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://www.connectingthedotsinfin.tech/airtel-moneys-7-billion-ipo-shows-that-strong-demand-doesnt-guarantee-a-strong-debut/",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-16T10:07:50.201425+00:00"
+    },
+    {
+      "round_id": "b99f14f3-d7da-4eee-832c-f387ce06eed8",
+      "company_name": "Praevidentia Group",
+      "company_url": "https://buildersinfintech.ai/companies/praevidentia-group",
+      "round_type": "Fund final close (Gaius Nachfolgekapital I)",
+      "category": "equity",
+      "amount": 50000000,
+      "currency": "EUR",
+      "announced_at": "2026-10-12",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://buildersinfintech.ai/news/gaius-capital-closes-its-debut-fund-at-its-50m-hard-cap-plus-6m-in-co-investment",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-13T09:50:19.069388+00:00"
+    },
+    {
+      "round_id": "fe0ec9b7-79d8-4451-90bd-f5e1e9887b0e",
+      "company_name": "Qippay",
+      "company_url": "https://buildersinfintech.ai/companies/qippay",
+      "round_type": "Strategic investment",
+      "category": "equity",
+      "amount": 5000000,
+      "currency": "NZD",
+      "announced_at": "2026-10-12",
+      "country": "New Zealand",
+      "lead_investors": "All Roads Wholesale Fund",
+      "investors": "All Roads Wholesale Fund",
+      "source_url": "https://buildersinfintech.ai/news/qippay-raises-nz-5m-from-all-roads-for-a-25-stake-to-build-open-banking-infrastructure-in-new-zealand",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-13T09:50:17.925135+00:00"
+    },
+    {
+      "round_id": "517bbd4a-4325-42d0-852f-8531a6a3069d",
+      "company_name": "OPay",
+      "company_url": "https://buildersinfintech.ai/companies/opay",
+      "round_type": "Private placement concurrent with IPO",
+      "category": "equity",
+      "amount": 200000000,
+      "currency": "USD",
+      "announced_at": "2026-10-09",
+      "country": null,
+      "lead_investors": "Standard Bank Group",
+      "investors": "Standard Bank Group",
+      "source_url": "https://buildersinfintech.ai/news/opay-files-for-a-new-york-ipo-as-standard-bank-commits-up-to-200m-in-a-private-placement",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-13T09:50:16.673891+00:00"
+    },
+    {
+      "round_id": "98e4f86a-fb2b-4c6e-97eb-6ce296871661",
+      "company_name": "Ramp",
+      "company_url": "https://buildersinfintech.ai/companies/ramp",
+      "round_type": null,
+      "category": "equity",
+      "amount": 1850000000,
+      "currency": "USD",
+      "announced_at": "2026-10-09",
+      "country": null,
+      "lead_investors": "Dragoneer Investment Group; Thrive Capital",
+      "investors": "Dragoneer Investment Group; Thrive Capital; Founders Fund",
+      "source_url": "https://buildersinfintech.ai/news/ramp-raises-about-1-85b-led-by-dragoneer-and-thrive-capital-at-a-60b-pre-money-valuation-bloomberg-reports",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-12T08:01:09.331975+00:00"
+    },
+    {
+      "round_id": "b44357df-d64f-47ed-beeb-f6a352756253",
+      "company_name": "NeoGrowth",
+      "company_url": "https://buildersinfintech.ai/companies/neogrowth",
+      "round_type": "Equity and debt",
+      "category": "equity",
+      "amount": 850000000,
+      "currency": "INR",
+      "announced_at": "2026-10-09",
+      "country": null,
+      "lead_investors": "FMO",
+      "investors": "FMO; LeapFrog Investments",
+      "source_url": "https://buildersinfintech.ai/news/neogrowth-raises-rs85-crore-about-8-8m-led-by-fmo-with-leapfrog-investments-to-expand-msme-lending-in-india",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-12T08:01:10.950071+00:00"
+    },
     {
       "round_id": "0085ef49-fa05-4a94-8a7a-bbf5d46ee49d",
       "company_name": "One Trading",
@@ -29,12 +653,28 @@
       "amount": 4000000,
       "currency": "USD",
       "announced_at": "2026-10-08",
-      "country": null,
+      "country": "Cyprus",
       "lead_investors": null,
       "investors": "DMTech VC",
       "source_url": "https://buildersinfintech.ai/news/neofleet-capital-raises-a-4m-pre-seed-to-finance-taxi-fleets-across-africa-and-latin-america",
       "coverage_source": "pipeline",
       "last_updated": "2026-10-09T14:45:05.229839+00:00"
+    },
+    {
+      "round_id": "54295e67-5249-454c-ad5f-757b88819b8d",
+      "company_name": "Coinbase",
+      "company_url": "https://buildersinfintech.ai/companies/coinbase",
+      "round_type": "Early-stage fund and opportunity fund",
+      "category": "equity",
+      "amount": 900000000,
+      "currency": "USD",
+      "announced_at": "2026-10-08",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://buildersinfintech.ai/news/union-square-ventures-raises-900m-across-a-500m-early-stage-fund-and-a-400m-opportunity-fund",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-12T08:01:11.661137+00:00"
     },
     {
       "round_id": "79404166-2c33-4ccb-ac1b-185e187fca99",
@@ -83,6 +723,22 @@
       "source_url": "https://buildersinfintech.ai/news/meanwhile-raises-37-5m-at-a-350m-valuation-for-bitcoin-denominated-life-insurance",
       "coverage_source": "pipeline",
       "last_updated": "2026-10-09T14:45:03.312146+00:00"
+    },
+    {
+      "round_id": "dc4a5786-69f5-47e2-9249-3756fb4fe875",
+      "company_name": "DailyPay",
+      "company_url": "https://buildersinfintech.ai/companies/dailypay",
+      "round_type": "Asset-backed securitisation",
+      "category": "equity",
+      "amount": 200000000,
+      "currency": "USD",
+      "announced_at": "2026-10-08",
+      "country": null,
+      "lead_investors": "Citi",
+      "investors": "Citi; Bank of America; KeyBanc; Scotiabank; Wells Fargo",
+      "source_url": "https://buildersinfintech.ai/news/dailypay-completes-a-second-200m-asset-backed-securitisation-taking-its-receivables-backed-financing-to-about-1-4b",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-12T08:01:10.240167+00:00"
     },
     {
       "round_id": "1256b136-c8ab-49d8-b784-b2abc434717c",
@@ -141,7 +797,7 @@
       "amount": 6000000,
       "currency": "USD",
       "announced_at": "2026-10-07",
-      "country": null,
+      "country": "United Kingdom",
       "lead_investors": "Mercia Ventures",
       "investors": "Mercia Ventures; Ada Ventures)",
       "source_url": "https://buildersinfintech.ai/news/plannerpal-raises-6m-led-by-mercia-ventures-to-build-the-client-intelligence-layer-for-uk-financial-advice",
@@ -157,7 +813,7 @@
       "amount": 360000000,
       "currency": "INR",
       "announced_at": "2026-10-07",
-      "country": null,
+      "country": "India",
       "lead_investors": "Lightspeed; Prime Venture Partners",
       "investors": "Lightspeed; Prime Venture Partners",
       "source_url": "https://buildersinfintech.ai/news/zomint-raises-rs-36-crore-about-3-75m-in-a-seed-round-from-lightspeed-and-prime-venture-partners",
@@ -393,7 +1049,7 @@
       "company_name": "Volt",
       "company_url": "https://buildersinfintech.ai/companies/volt",
       "round_type": "LP commitment",
-      "category": "equity",
+      "category": "fund",
       "amount": 10000000,
       "currency": "GBP",
       "announced_at": "2026-10-06",
@@ -402,7 +1058,7 @@
       "investors": "British Business Bank",
       "source_url": "https://buildersinfintech.ai/news/british-business-bank-commits-10m-11m-to-fuel-ventures-funds-through-its-regional-angels-programme",
       "coverage_source": "pipeline",
-      "last_updated": "2026-10-07T08:21:23.806637+00:00"
+      "last_updated": "2026-10-18T18:45:09.374602+00:00"
     },
     {
       "round_id": "dab46f13-352e-41d1-9d25-1a3b0c7bfa8b",
@@ -457,7 +1113,7 @@
       "company_name": "QuantWare",
       "company_url": "https://buildersinfintech.ai/companies/quantware",
       "round_type": "Fund II (seed)",
-      "category": "equity",
+      "category": "fund",
       "amount": 125000000,
       "currency": "EUR",
       "announced_at": "2026-10-06",
@@ -466,7 +1122,7 @@
       "investors": "Invest-NL; Oost NL",
       "source_url": "https://buildersinfintech.ai/news/graduate-ventures-launches-a-125m-second-seed-fund-for-dutch-tech-startups-with-100m-already-committed",
       "coverage_source": "pipeline",
-      "last_updated": "2026-10-07T08:21:22.760898+00:00"
+      "last_updated": "2026-10-18T18:44:48.26484+00:00"
     },
     {
       "round_id": "f0c670d0-5ad6-47ce-bd50-e566ffe30641",
@@ -569,7 +1225,7 @@
       "company_name": "Asaas",
       "company_url": "https://buildersinfintech.ai/companies/asaas",
       "round_type": "FIDC (receivables fund)",
-      "category": "equity",
+      "category": "fund",
       "amount": 300000000,
       "currency": "BRL",
       "announced_at": "2026-10-05",
@@ -578,7 +1234,7 @@
       "investors": null,
       "source_url": "https://buildersinfintech.ai/news/asaas-raises-r-300m-about-55-6m-in-its-largest-fidc-to-date-to-finance-receivables-advances-for-brazilian-smes",
       "coverage_source": "pipeline",
-      "last_updated": "2026-10-07T08:21:20.294569+00:00"
+      "last_updated": "2026-10-18T18:44:25.500293+00:00"
     },
     {
       "round_id": "03806e49-b7fd-448f-8e38-445e9f85aa4c",
@@ -781,7 +1437,7 @@
       "amount": 2000000,
       "currency": "EUR",
       "announced_at": "2026-10-01",
-      "country": null,
+      "country": "Italy",
       "lead_investors": "Techshop Capital",
       "investors": "Techshop Capital; Alecla7; Alpha Ventures; Heartfelt; Moonstone; P3 Ventures; Vento Ventures; Zanichelli Venture",
       "source_url": "https://buildersinfintech.ai/news/computis-raises-2m-pre-seed-led-by-techshop-capital-to-run-accounting-for-italian-smes-with-ai",
@@ -925,7 +1581,7 @@
       "amount": null,
       "currency": "USD",
       "announced_at": "2026-09-30",
-      "country": null,
+      "country": "United States",
       "lead_investors": null,
       "investors": null,
       "source_url": "https://buildersinfintech.ai/news/txse-group-completes-its-third-funding-round-taking-its-capital-to-430m",
@@ -1309,7 +1965,7 @@
       "amount": 6000000,
       "currency": "EUR",
       "announced_at": "2026-09-24",
-      "country": null,
+      "country": "Germany",
       "lead_investors": null,
       "investors": null,
       "source_url": "https://fintech.global/2026/09/24/mika-raises-e6m-to-make-german-tax-advisers-optional/",
@@ -1405,7 +2061,7 @@
       "amount": 55000000,
       "currency": "USD",
       "announced_at": "2026-09-23",
-      "country": null,
+      "country": "United Kingdom",
       "lead_investors": "British Business Bank",
       "investors": "British Business Bank; Aldea Ventures; Molten Ventures; Sella Venture Partners",
       "source_url": "https://buildersinfintech.ai/news/connect-ventures-reaches-55m-first-close-of-its-80m-fund-v-for-technical-founders-in-europe",
@@ -1437,7 +2093,7 @@
       "amount": 7500000,
       "currency": "GBP",
       "announced_at": "2026-09-23",
-      "country": null,
+      "country": "United Kingdom",
       "lead_investors": "Fexco",
       "investors": "Fexco",
       "source_url": "https://buildersinfintech.ai/news/tenora-raises-7-5m-from-fexco-to-move-from-fx-into-corporate-treasury",
@@ -1693,7 +2349,7 @@
       "amount": 4000000,
       "currency": "USD",
       "announced_at": "2026-09-21",
-      "country": null,
+      "country": "Saudi Arabia",
       "lead_investors": "Speedinvest",
       "investors": "Speedinvest; Middle East Venture Partners",
       "source_url": "https://buildersinfintech.ai/news/abwab-ai-raises-4m-seed-led-by-speedinvest-the-vc-s-first-investment-in-saudi-arabia",
@@ -1901,7 +2557,7 @@
       "amount": 1100000,
       "currency": "EUR",
       "announced_at": "2026-09-16",
-      "country": null,
+      "country": "Belgium",
       "lead_investors": "JK Invest",
       "investors": "JK Invest; imec.istart; Super Capital",
       "source_url": "https://buildersinfintech.ai/news/peaky-raises-1-1m-seed-led-by-jk-invest-for-ai-financial-planning",
@@ -2029,7 +2685,7 @@
       "amount": 329500000,
       "currency": "USD",
       "announced_at": "2026-09-15",
-      "country": null,
+      "country": "Saudi Arabia",
       "lead_investors": null,
       "investors": "M20 Fund; Noon Investments; Sohar International Bank",
       "source_url": "https://buildersinfintech.ai/news/barq-closes-329-5m-series-a-at-1-85b-valuation",
@@ -2125,7 +2781,7 @@
       "amount": 360000000,
       "currency": "BRL",
       "announced_at": "2026-09-14",
-      "country": null,
+      "country": "Brazil",
       "lead_investors": "Goldman Sachs; Kaszek; Morgan Stanley",
       "investors": "Goldman Sachs; Kaszek; Morgan Stanley; ABN AMRO Clearing; IMC; Jump Trading; Optiver; XP; XTX Markets",
       "source_url": "https://buildersinfintech.ai/news/a5x-raises-r-360m-70m-series-d-at-r-2-7b-valuation-led-by-morgan-stanley-goldman-sachs-and-kaszek",
@@ -2797,7 +3453,7 @@
       "amount": 2300000,
       "currency": "GBP",
       "announced_at": "2026-08-19",
-      "country": null,
+      "country": "United Kingdom",
       "lead_investors": "Blackfinch Ventures",
       "investors": "Blackfinch Ventures; Bethnal Green Ventures; Oxford Capital",
       "source_url": "https://buildersinfintech.ai/newsletter/weekly-update-146",
@@ -3437,7 +4093,7 @@
       "amount": 2700000,
       "currency": "USD",
       "announced_at": "2026-07-22",
-      "country": null,
+      "country": "Brazil",
       "lead_investors": "Fabric Ventures",
       "investors": "Fabric Ventures; Plug and Play; Tritemius",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_fintech-zeom-share-7486344600597655552-0v7J/",
@@ -3469,7 +4125,7 @@
       "amount": 10000000,
       "currency": "USD",
       "announced_at": "2026-07-21",
-      "country": null,
+      "country": "United Arab Emirates",
       "lead_investors": null,
       "investors": "Karatage",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_fintech-epicmarkets-activity-7488684848178671616-h9Sa",
@@ -3622,19 +4278,19 @@
     },
     {
       "round_id": "0de4560e-8f5b-4361-b076-bcf0c231f4a5",
-      "company_name": "Float",
-      "company_url": "https://buildersinfintech.ai/companies/float",
+      "company_name": "Float (Europe)",
+      "company_url": "https://buildersinfintech.ai/companies/float-europe",
       "round_type": "Series A",
       "category": "equity",
       "amount": 4500000,
       "currency": "EUR",
       "announced_at": "2026-07-15",
-      "country": "Canada",
+      "country": null,
       "lead_investors": "CHAPTERS Group",
       "investors": "CHAPTERS Group",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_fintech-float-share-7483073315046248448-TjQF/",
       "coverage_source": "newsletter",
-      "last_updated": "2026-09-25T13:42:11.556454+00:00"
+      "last_updated": "2026-10-12T08:17:47.219536+00:00"
     },
     {
       "round_id": "2a25990a-c242-49b2-be09-9a3e67e917ea",
@@ -3789,7 +4445,7 @@
       "amount": 12000000,
       "currency": "EUR",
       "announced_at": "2026-07-14",
-      "country": null,
+      "country": "Germany",
       "lead_investors": "Headline",
       "investors": "Headline; Foreword; futurepresent; MS&AD Ventures; QED Investors; Repeat Ventures",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_skalar-activity-7482803633366073344-c7Kb",
@@ -3885,7 +4541,7 @@
       "amount": 13900000,
       "currency": "USD",
       "announced_at": "2026-07-09",
-      "country": null,
+      "country": "Philippines",
       "lead_investors": null,
       "investors": "JG Summit Holdings Inc.",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_gotyme-tyme-activity-7480840709063843840-VIrF",
@@ -3901,7 +4557,7 @@
       "amount": 11000000,
       "currency": "USD",
       "announced_at": "2026-07-09",
-      "country": null,
+      "country": "United Arab Emirates",
       "lead_investors": "Speedinvest",
       "investors": "Speedinvest; Dubai Future District Fund; Mashreq NeoVentures; Middle East Venture Partners (MEVP); Property Finder",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_keyper-activity-7481376697842483200-BBSK",
@@ -4013,7 +4669,7 @@
       "amount": 22500000,
       "currency": "EUR",
       "announced_at": "2026-07-07",
-      "country": null,
+      "country": "Italy",
       "lead_investors": "Azimut",
       "investors": "Azimut",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_fintech-younggroup-share-7480293588275380224-j0QE/",
@@ -5181,7 +5837,7 @@
       "amount": 11300000,
       "currency": "USD",
       "announced_at": "2026-06-09",
-      "country": null,
+      "country": "Indonesia",
       "lead_investors": null,
       "investors": "AscentHFX; MD Capital; Sharpbyte",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_floq-activity-7469969031240855552-9ra0",
@@ -6861,7 +7517,7 @@
       "amount": 8000000,
       "currency": "USD",
       "announced_at": "2026-04-23",
-      "country": null,
+      "country": "Malaysia",
       "lead_investors": "Bybit",
       "investors": "Bybit",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_hata-bybit-activity-7452936804711845888-D436",
@@ -6941,7 +7597,7 @@
       "amount": 2000000,
       "currency": "EUR",
       "announced_at": "2026-04-17",
-      "country": null,
+      "country": "Italy",
       "lead_investors": "Step Fund",
       "investors": "Step Fund; Zest",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_smartwage-fintech-activity-7450762482152996864-c50n",
@@ -7357,7 +8013,7 @@
       "amount": 600000000,
       "currency": "INR",
       "announced_at": "2026-04-09",
-      "country": null,
+      "country": "India",
       "lead_investors": "IvyCap Ventures",
       "investors": "IvyCap Ventures; Advantedge Founders; Asian Development Bank; Trucks VC",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_astranova-activity-7449516761806450689-qXJP",
@@ -7437,7 +8093,7 @@
       "amount": 5000000,
       "currency": "USD",
       "announced_at": "2026-04-07",
-      "country": null,
+      "country": "India",
       "lead_investors": "Konvoy",
       "investors": "Konvoy; Taisu Ventures; Y Combinator",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_gosats-activity-7447229223657689088-whP4",
@@ -9373,7 +10029,7 @@
       "amount": 1600000,
       "currency": "EUR",
       "announced_at": "2026-02-19",
-      "country": null,
+      "country": "Italy",
       "lead_investors": "Vertis SGR",
       "investors": "Vertis SGR; CDP Venture Capital",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_quido-fintech-quido-activity-7430634855052316673-lh45",
@@ -9629,7 +10285,7 @@
       "amount": 25500000,
       "currency": "USD",
       "announced_at": "2026-02-16",
-      "country": null,
+      "country": "Saudi Arabia",
       "lead_investors": "Afaq Capital",
       "investors": "Afaq Capital",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_fintech-madfu-activity-7429207980857876480-wA-S",
@@ -9917,7 +10573,7 @@
       "amount": 23000000,
       "currency": "USD",
       "announced_at": "2026-02-10",
-      "country": null,
+      "country": "India",
       "lead_investors": "Fundamentum Partnership",
       "investors": "Fundamentum Partnership; SMBC Asia Rising Fund",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_olyv-activity-7427373501315178496-RA7_",
@@ -9981,7 +10637,7 @@
       "amount": 15200000,
       "currency": "USD",
       "announced_at": "2026-02-09",
-      "country": null,
+      "country": "Saudi Arabia",
       "lead_investors": "anb seed; Rua Growth Fund; Shorooq Partners",
       "investors": "anb seed; Rua Growth Fund; Shorooq Partners; 500 Global; COTU Ventures; Joa Capital; Middle East Venture Partners (MEVP); Sadu Capital; Sharaka Capital; Suhail Ventures; Waad Invest",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_safqah-activity-7427314046132965376-EDPL",
@@ -12733,7 +13389,7 @@
       "amount": 1300000000,
       "currency": "INR",
       "announced_at": "2025-11-24",
-      "country": null,
+      "country": "India",
       "lead_investors": "Bertelsmann India Investments",
       "investors": "Bertelsmann India Investments; Alpha Wave Global; Shepherd's Hill",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_wealthtech-wealthy-fintech-activity-7399318573396963328-73bI",
@@ -14429,7 +15085,7 @@
       "amount": 160000000,
       "currency": "BRL",
       "announced_at": "2025-10-14",
-      "country": null,
+      "country": "Brazil",
       "lead_investors": "OIF Ventures; Sun Hung Kai & Co",
       "investors": "OIF Ventures; Sun Hung Kai & Co; BB Ventures; Credit Saison; Endeavor Catalyst; Founder Collective; Salesforce Ventures",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_bnpl-fintech-pagaleve-activity-7383984955938312193-8516",
@@ -14509,7 +15165,7 @@
       "amount": 13000000,
       "currency": "USD",
       "announced_at": "2025-10-13",
-      "country": null,
+      "country": "India",
       "lead_investors": "Peak XV Partners",
       "investors": "Peak XV Partners; Saison Capital; Stellaris Venture Partners",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_fintech-goodscore-activity-7383954770614644737-tMql",
@@ -30410,7 +31066,7 @@
       "company_url": "https://buildersinfintech.ai/companies/mifundo",
       "round_type": null,
       "category": "equity",
-      "amount": 25000000,
+      "amount": 2500000,
       "currency": "EUR",
       "announced_at": "2024-07-22",
       "country": "Estonia",
@@ -30418,7 +31074,7 @@
       "investors": "European Innovation Council and SMEs Executive Agency (EISMEA)",
       "source_url": "https://www.linkedin.com/posts/michele-mattei_fintech-mifundo-eic-activity-7221129378498260992-Z9tR",
       "coverage_source": "newsletter",
-      "last_updated": "2026-09-21T21:50:57.792282+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "7826a803-299a-45d7-ba9f-49e5d74518c6",
@@ -39253,22 +39909,6 @@
       "last_updated": "2026-10-07T07:05:55.700319+00:00"
     },
     {
-      "round_id": "2801ca06-d331-4bf1-b3fb-c73e1d4f66ff",
-      "company_name": "B",
-      "company_url": "https://buildersinfintech.ai/companies/b",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 20000000,
-      "currency": "USD",
-      "announced_at": "2022-12-14",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2022/12/14/payments-automation-firm-plooto-snares-20m-series-b/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:55.362209+00:00"
-    },
-    {
       "round_id": "466d7cb5-5e13-4a33-8546-42c6470ba9f6",
       "company_name": "Taxd",
       "company_url": "https://buildersinfintech.ai/companies/taxd",
@@ -39929,7 +40569,7 @@
       "company_name": "Avant",
       "company_url": "https://buildersinfintech.ai/companies/avant",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 250000000,
       "currency": "USD",
       "announced_at": "2022-12-08",
@@ -39938,7 +40578,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2022/12/08/avant-secures-250m-corporate-debt-from-ares/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:53.07634+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "f4577b13-acd2-4b16-8d35-7b24583ec033",
@@ -40169,7 +40809,7 @@
       "company_name": "Sunbit",
       "company_url": "https://buildersinfintech.ai/companies/sunbit",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 250000000,
       "currency": "USD",
       "announced_at": "2022-12-06",
@@ -40178,7 +40818,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2022/12/06/sunbit-bags-250m-to-make-everyday-expenses-easier/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:53.07634+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "cd5b2b41-fbdb-4ded-8f8c-06dde0e6e874",
@@ -40527,7 +41167,7 @@
       "announced_at": "2022-12-01",
       "country": null,
       "lead_investors": null,
-      "investors": "Espresso Capital; Mastercard; Proof Ventures; Trestle; USD65",
+      "investors": "Espresso Capital; Mastercard; Proof Ventures; Trestle",
       "source_url": "https://fintech.global/2022/12/01/teampay-secures-47m-to-bolster-payment-solutions/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T07:05:54.084016+00:00"
@@ -40593,22 +41233,6 @@
       "lead_investors": null,
       "investors": "InMotion Ventures",
       "source_url": "https://tech.eu/2022/11/30/car-repairs-fintech-bumper-drives-in-ps261-million/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:54.941804+00:00"
-    },
-    {
-      "round_id": "061c7274-a7b6-43ae-ad5e-e22efcc591a5",
-      "company_name": "B",
-      "company_url": "https://buildersinfintech.ai/companies/b",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 27000000,
-      "currency": "USD",
-      "announced_at": "2022-11-29",
-      "country": null,
-      "lead_investors": "Cathay Innovation",
-      "investors": "Cathay Innovation; ACA; OpenSpace",
-      "source_url": "https://techcrunch.com/2022/11/28/igloo-series-b-extension/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T07:05:54.941804+00:00"
     },
@@ -40803,22 +41427,6 @@
       "source_url": "https://fintech.global/2022/11/28/nine25-lands-a2-25m-in-crowdfunding-raise/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T07:05:59.585296+00:00"
-    },
-    {
-      "round_id": "f8edfa5b-913c-4444-91e9-985f16fed385",
-      "company_name": "USD",
-      "company_url": "https://buildersinfintech.ai/companies/usd",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 50000000,
-      "currency": "USD",
-      "announced_at": "2022-11-28",
-      "country": null,
-      "lead_investors": "DST Global",
-      "investors": "DST Global; C Ventures; K3 Ventures",
-      "source_url": "https://thepaypers.com/crypto-web3-and-cbdc/news/matrixport-needs-usd-50-million-to-complete-a-new-funding-round",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:54.084016+00:00"
     },
     {
       "round_id": "292a849d-a010-40bf-ab4f-4c5508ad5bf8",
@@ -41209,7 +41817,7 @@
       "company_name": "Karmen",
       "company_url": "https://buildersinfintech.ai/companies/karmen",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 50000000,
       "currency": "EUR",
       "announced_at": "2022-11-22",
@@ -41218,7 +41826,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2022/11/22/sme-non-dilutive-financing-provider-karmen-nets-e50m-debt/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:54.084016+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "d15d5ecb-866b-4a6a-80c4-485ab94a7d01",
@@ -42217,7 +42825,7 @@
       "company_name": "Quona Capital",
       "company_url": "https://buildersinfintech.ai/investors/quona-capital",
       "round_type": "Fund",
-      "category": "equity",
+      "category": "fund",
       "amount": 332000000,
       "currency": "USD",
       "announced_at": "2022-11-08",
@@ -42226,7 +42834,7 @@
       "investors": null,
       "source_url": "https://techcrunch.com/2022/11/08/quona-capital-332m-financial-inclusion/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:53.07634+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "8d4d9c30-1535-4866-a93e-926da064075c",
@@ -42633,7 +43241,7 @@
       "company_name": "Lendbuzz",
       "company_url": "https://buildersinfintech.ai/companies/lendbuzz",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 150000000,
       "currency": "USD",
       "announced_at": "2022-11-03",
@@ -42642,7 +43250,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2022/11/03/car-financing-company-lendbuzz-secures-150m-in-a-credit-facility/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:53.07634+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "610d6bfd-d23c-4534-8c70-5b66a564280e",
@@ -42905,7 +43513,7 @@
       "company_name": "Kin",
       "company_url": "https://buildersinfintech.ai/companies/kin",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 145000000,
       "currency": "USD",
       "announced_at": "2022-10-31",
@@ -42914,7 +43522,7 @@
       "investors": "the Avenue Venture Opportunities Fund; Aquarian Investments; Skyline Capital",
       "source_url": "https://fintech.global/2022/10/31/insurtech-kin-scores-145m-in-debt-financing/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:53.07634+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "3609e0d9-687c-40c8-b9a8-b8e1ecd81598",
@@ -44089,7 +44697,7 @@
       "company_name": "Sezzle",
       "company_url": "https://buildersinfintech.ai/companies/sezzle",
       "round_type": "Unspecified",
-      "category": "equity",
+      "category": "debt",
       "amount": 100000000,
       "currency": "USD",
       "announced_at": "2022-10-19",
@@ -44098,7 +44706,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2022/10/19/bnpl-sezzle-secures-100m-credit-after-meger-falls-through/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:53.428064+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "34f5ffa0-cf96-4fec-b25b-9f69735f1986",
@@ -45017,7 +45625,7 @@
       "company_name": "MarketFinance",
       "company_url": "https://buildersinfintech.ai/companies/marketfinance",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 30000000,
       "currency": "USD",
       "announced_at": "2022-10-11",
@@ -45026,7 +45634,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2022/10/11/marketfinance-nets-30m-credit-facility/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:54.941804+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "e1431e76-7cc9-4a21-a3db-3d5eeed2c943",
@@ -45545,7 +46153,7 @@
       "company_name": "Tally",
       "company_url": "https://buildersinfintech.ai/companies/tally",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 80000000,
       "currency": "USD",
       "announced_at": "2022-10-04",
@@ -45554,7 +46162,7 @@
       "investors": "Sway Ventures",
       "source_url": "https://fintech.global/2022/10/04/tally-bags-80m-to-free-customers-from-the-cycle-of-debt/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T07:05:53.783366+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "e1c79174-35da-4476-8c84-7619e3fdd9d4",
@@ -47641,7 +48249,7 @@
       "company_name": "Xepelin",
       "company_url": "https://buildersinfintech.ai/companies/xepelin",
       "round_type": "Unspecified",
-      "category": "equity",
+      "category": "debt",
       "amount": 140000000,
       "currency": "USD",
       "announced_at": "2022-09-12",
@@ -47650,7 +48258,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2022/09/12/chile-based-payment-platform-xepelin-secures-140m-loan/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T08:19:51.742183+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "345caaaa-1076-4a63-ada7-f7f8554c9461",
@@ -47705,7 +48313,7 @@
       "company_name": "Plurall",
       "company_url": "https://buildersinfintech.ai/companies/plurall",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 20000000,
       "currency": "USD",
       "announced_at": "2022-09-12",
@@ -47714,7 +48322,7 @@
       "investors": "Fasanara Capital",
       "source_url": "https://thepaypers.com/payments/news/plurall-gets-usd-20-mln-line-of-credit-from-fasanara",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T08:19:54.83834+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "8df0321d-b84c-4fbe-b122-143973ff3861",
@@ -48857,7 +49465,7 @@
       "company_name": "Polygon",
       "company_url": "https://buildersinfintech.ai/investors/polygon",
       "round_type": "Fund",
-      "category": "equity",
+      "category": "fund",
       "amount": 50000000,
       "currency": "USD",
       "announced_at": "2022-08-25",
@@ -48866,7 +49474,7 @@
       "investors": "Kenzi Wang",
       "source_url": "https://techcrunch.com/2022/08/25/polygon-web3-crypto-nailwal-symbolic-venture-capital-emerging-markets/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T08:19:52.879071+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "3db6df9c-a837-4f27-8219-176ab9bf85e6",
@@ -48943,7 +49551,7 @@
       "announced_at": "2022-08-24",
       "country": null,
       "lead_investors": null,
-      "investors": "Apple; OnePlus; Samsung; USD 10; Xiaomi",
+      "investors": "Apple; OnePlus; Samsung; Xiaomi",
       "source_url": "https://thepaypers.com/fintech/news/servify-gets-usd-65-mln-for-devices-after-sales",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T08:19:52.251855+00:00"
@@ -49205,22 +49813,6 @@
       "last_updated": "2026-10-07T08:19:54.83834+00:00"
     },
     {
-      "round_id": "fb7a6ef5-cb78-4732-b4e7-016d7b4de52c",
-      "company_name": "Expand After",
-      "company_url": "https://buildersinfintech.ai/companies/expand-after",
-      "round_type": "Series A",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2022-08-22",
-      "country": null,
-      "lead_investors": "Jump Capital",
-      "investors": "Jump Capital; Costanoa Ventures; Foundation Capital",
-      "source_url": "https://www.pymnts.com/news/investment-tracker/fintech-investments/2022/payments-fintech-highline-looks-to-expand-after-13m-series-a/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T08:19:59.628578+00:00"
-    },
-    {
       "round_id": "578c436d-eb50-4ae9-8473-f9b086182dcc",
       "company_name": "MetaMorphoSys",
       "company_url": "https://buildersinfintech.ai/companies/metamorphosys",
@@ -49382,19 +49974,19 @@
     },
     {
       "round_id": "253c96bb-6539-4314-8a04-b83c5da29750",
-      "company_name": "Pomelo",
-      "company_url": "https://buildersinfintech.ai/companies/pomelo",
+      "company_name": "Pomelo (remittances)",
+      "company_url": "https://buildersinfintech.ai/companies/pomelo-remittances",
       "round_type": "Seed",
       "category": "equity",
       "amount": 20000000,
       "currency": "USD",
       "announced_at": "2022-08-16",
-      "country": "Argentina",
+      "country": null,
       "lead_investors": "Founders Fund",
       "investors": "Founders Fund; Afore Capital; Josh Buckley; Kevin Hartz; The Chainsmokers; Xfund",
       "source_url": "https://techcrunch.com/2022/08/16/pomelo-20-million-seed-founders-fund-international-money-transfer/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T08:19:54.408291+00:00"
+      "last_updated": "2026-10-12T08:17:47.219536+00:00"
     },
     {
       "round_id": "5120aaac-b6bc-4427-a973-68f167a23948",
@@ -49961,7 +50553,7 @@
       "company_name": "Yieldstreet",
       "company_url": "https://buildersinfintech.ai/companies/yieldstreet",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 400000000,
       "currency": "USD",
       "announced_at": "2022-08-10",
@@ -49970,7 +50562,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2022/08/10/investing-platform-yieldstreet-nabs-400m-credit-facility/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T08:19:51.380432+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "0c987b41-2f34-4170-a010-730a2b019474",
@@ -50047,7 +50639,7 @@
       "announced_at": "2022-08-09",
       "country": null,
       "lead_investors": null,
-      "investors": "Ribbit Capital; Thrive Capital; USD 94",
+      "investors": "Ribbit Capital; Thrive Capital",
       "source_url": "https://thepaypers.com/fintech/news/parafin-startup-raises-usd-60-mln-in-series-b",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T08:19:52.251855+00:00"
@@ -51865,7 +52457,7 @@
       "company_name": "Airbase",
       "company_url": "https://buildersinfintech.ai/companies/airbase",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 150000000,
       "currency": "USD",
       "announced_at": "2022-07-15",
@@ -51874,7 +52466,7 @@
       "investors": "Goldman Sachs",
       "source_url": "https://ffnews.com/news/airbase-secures-150m-credit-facility-from-goldman-sachs",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T08:19:51.742183+00:00"
+      "last_updated": "2026-10-12T13:13:53.923207+00:00"
     },
     {
       "round_id": "f32ced2f-7073-4888-b498-8eee46b2e6af",
@@ -52175,7 +52767,7 @@
       "announced_at": "2022-07-13",
       "country": null,
       "lead_investors": "QED Fund",
-      "investors": "QED Fund; USD 722",
+      "investors": "QED Fund",
       "source_url": "https://techcrunch.com/2022/07/13/indian-fintech-onecard-tops-1-4-billion-valuation-in-fresh-funding/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T08:19:51.742183+00:00"
@@ -52709,22 +53301,6 @@
       "last_updated": "2026-10-07T08:19:58.024055+00:00"
     },
     {
-      "round_id": "777bbf64-23b5-4e84-a47f-057bbefa9823",
-      "company_name": "Tesorio",
-      "company_url": "https://buildersinfintech.ai/companies/tesorio",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 17000000,
-      "currency": "USD",
-      "announced_at": "2022-07-07",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://thepaypers.com/fintech/news/tesorio-raises-usd-17-mln",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T08:19:54.83834+00:00"
-    },
-    {
       "round_id": "83ae522e-702c-4c8d-9607-4581bcfa1c7f",
       "company_name": "GloveBox",
       "company_url": "https://buildersinfintech.ai/companies/glovebox",
@@ -52745,7 +53321,7 @@
       "company_name": "Sonovate",
       "company_url": "https://buildersinfintech.ai/companies/sonovate",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 165000000,
       "currency": "GBP",
       "announced_at": "2022-07-07",
@@ -52754,7 +53330,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2022/07/07/payment-solution-for-on-demand-workers-sonovate-closes-165m-securitisation-deal/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T08:19:51.380432+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "bd7f88a3-eff8-4a7c-a98c-dbc4a5abb049",
@@ -52803,22 +53379,6 @@
       "source_url": "https://www.eu-startups.com/2022/07/london-based-fintech-startup-griffin-banks-e15-million-for-its-self-service-baas-platform/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T08:19:55.231316+00:00"
-    },
-    {
-      "round_id": "320fa6d5-f6b2-4095-8cd1-4f4e7efc7c16",
-      "company_name": "UnDosTres",
-      "company_url": "https://buildersinfintech.ai/companies/undostres",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 30000000,
-      "currency": "USD",
-      "announced_at": "2022-07-06",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://www.pymnts.com/news/investment-tracker/2022/fintech-undostres-raises-30-million-dollars-reach-40-percent-mexicans-do-not-transact-online/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T08:19:53.952053+00:00"
     },
     {
       "round_id": "578ea679-4a30-40c6-81d2-754ba4514121",
@@ -53461,22 +54021,6 @@
       "last_updated": "2026-10-07T12:59:29.95708+00:00"
     },
     {
-      "round_id": "e3a28c86-6642-48a4-afe3-e9b6d176abd6",
-      "company_name": "After Successful Tax Season",
-      "company_url": "https://buildersinfintech.ai/companies/after-successful-tax-season",
-      "round_type": "Series A",
-      "category": "equity",
-      "amount": 30000000,
-      "currency": "USD",
-      "announced_at": "2022-06-30",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://www.prnewswire.com/news-releases/after-successful-tax-season-embedded-tax-platform-april-raises-30m-series-a-from-fintech-veterans-301578781.html",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:30.694351+00:00"
-    },
-    {
       "round_id": "eb030374-4d69-48c1-b0fc-2e08ae01b576",
       "company_name": "Torsion",
       "company_url": "https://buildersinfintech.ai/companies/torsion",
@@ -53974,8 +54518,8 @@
     },
     {
       "round_id": "5bcd6c6f-43ea-4183-be65-8a7d98dfe78d",
-      "company_name": "Ledger",
-      "company_url": "https://buildersinfintech.ai/companies/ledger",
+      "company_name": "Ledger Investing",
+      "company_url": "https://buildersinfintech.ai/companies/ledger-investing",
       "round_type": "Series B",
       "category": "equity",
       "amount": 75000000,
@@ -53986,7 +54530,7 @@
       "investors": "WestCap",
       "source_url": "https://fintech.global/2022/06/23/insurtech-startup-ledger-investing-lands-75m/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:29.114708+00:00"
+      "last_updated": "2026-10-12T08:17:47.219536+00:00"
     },
     {
       "round_id": "6b7788a6-d83b-46d7-a2d0-2f725f659a47",
@@ -54739,22 +55283,6 @@
       "source_url": "https://www.eu-startups.com/2022/06/amsterdam-based-bits-of-stock-banks-e4-2-million-for-its-stock-reward-platform-addressing-wealth-inequality/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T12:59:35.208439+00:00"
-    },
-    {
-      "round_id": "931061c6-956d-4978-abcd-9ad014969cad",
-      "company_name": "B",
-      "company_url": "https://buildersinfintech.ai/companies/b",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 53000000,
-      "currency": "USD",
-      "announced_at": "2022-06-14",
-      "country": null,
-      "lead_investors": null,
-      "investors": "Atlassian Ventures; Cisco Investments",
-      "source_url": "https://fintech.global/2022/06/14/acrew-capital-backs-hycu-in-53m-series-b/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:29.95708+00:00"
     },
     {
       "round_id": "a6b32a5a-90a2-4516-9445-6f04ba9eedf4",
@@ -56981,22 +57509,6 @@
       "last_updated": "2026-10-07T12:59:35.589782+00:00"
     },
     {
-      "round_id": "556b95cd-983e-495f-ad99-59d324cee822",
-      "company_name": "Bud",
-      "company_url": "https://buildersinfintech.ai/companies/bud",
-      "round_type": "Series A (extension)",
-      "category": "equity",
-      "amount": 37000000,
-      "currency": "USD",
-      "announced_at": "2022-05-23",
-      "country": null,
-      "lead_investors": "Sequoia Capital India",
-      "investors": "Sequoia Capital India",
-      "source_url": "https://techcrunch.com/2022/05/22/metaverse-social-bud-funding-37-million/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:30.338449+00:00"
-    },
-    {
       "round_id": "6415991d-4324-4811-81b4-ca07f99dc104",
       "company_name": "Adsum",
       "company_url": "https://buildersinfintech.ai/companies/adsum",
@@ -57123,22 +57635,6 @@
       "source_url": "https://ffnews.com/news/lendtech-innovator-grapple-raises-6-5m-to-offer-enterprises-lending-as-a-service-as-it-scales-for-growth",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T12:59:34.211505+00:00"
-    },
-    {
-      "round_id": "2577e659-0979-49a8-9147-212d7ad18b77",
-      "company_name": "USD",
-      "company_url": "https://buildersinfintech.ai/companies/usd",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2022-05-19",
-      "country": null,
-      "lead_investors": "Intesa Sanpaolo",
-      "investors": "Intesa Sanpaolo; Morgan Stanley",
-      "source_url": "https://thepaypers.com/fintech/news/thought-machine-doubles-its-valuation-to-usd-27-bln",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:37.380342+00:00"
     },
     {
       "round_id": "36f71495-37a8-465f-bd2b-a6e7d253c1ad",
@@ -57305,7 +57801,7 @@
       "company_name": "MarketFinance",
       "company_url": "https://buildersinfintech.ai/companies/marketfinance",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 100000000,
       "currency": "GBP",
       "announced_at": "2022-05-19",
@@ -57314,7 +57810,7 @@
       "investors": "Deutsche Bank",
       "source_url": "https://fintech.global/2022/05/19/marketfinance-bags-100m-debt-line-to-increase-uk-lending-capacity/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:29.114708+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "e10e3db3-a119-43d1-a5a2-cfb30d42ff72",
@@ -58429,7 +58925,7 @@
       "amount": null,
       "currency": null,
       "announced_at": "2022-05-10",
-      "country": null,
+      "country": "United States",
       "lead_investors": null,
       "investors": null,
       "source_url": "https://www.pymnts.com/news/artificial-intelligence/2022/south-koreas-asset-management-fintech-akros-lists-on-nyse/",
@@ -60377,7 +60873,7 @@
       "company_name": "BillEase",
       "company_url": "https://buildersinfintech.ai/companies/billease",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 20000000,
       "currency": "USD",
       "announced_at": "2022-04-18",
@@ -60386,7 +60882,7 @@
       "investors": "Carsome-backer Burda Principal Investments",
       "source_url": "https://thepaypers.com/payments/news/billease-secures-usd-20-mln-debt-facility-from-lendable",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:31.719178+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "b168f480-e15c-4453-b14e-f8c869cf3a1a",
@@ -60719,7 +61215,7 @@
       "announced_at": "2022-04-12",
       "country": null,
       "lead_investors": null,
-      "investors": "Circle; for USDC",
+      "investors": "Circle",
       "source_url": "https://techcrunch.com/2022/04/12/blackrock-fidelity-and-others-to-invest-400m-in-usdc-stablecoin-issuer-circle/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T12:59:27.724512+00:00"
@@ -60851,22 +61347,6 @@
       "source_url": "https://fintech.global/2022/04/11/carmoola-lands-27m-to-transform-car-financing/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T12:59:30.694351+00:00"
-    },
-    {
-      "round_id": "4a36c968-c67e-4771-9d25-ca4810ca8f8a",
-      "company_name": "USD",
-      "company_url": "https://buildersinfintech.ai/companies/usd",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2022-04-11",
-      "country": null,
-      "lead_investors": null,
-      "investors": "Advent International; Primavera Capital",
-      "source_url": "https://thepaypers.com/fintech/news/coda-payments-approaches-funding-at-usd-25-bln-valuation",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:37.380342+00:00"
     },
     {
       "round_id": "828cbe4d-c590-4524-a561-0435fd0bc6ed",
@@ -61001,7 +61481,7 @@
       "company_name": "RITMO",
       "company_url": "https://buildersinfintech.ai/companies/ritmo",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 184000000,
       "currency": "EUR",
       "announced_at": "2022-04-08",
@@ -61010,7 +61490,7 @@
       "investors": "Avellinia Capital",
       "source_url": "https://www.eu-startups.com/2022/04/madrid-based-fintech-startup-ritmo-scores-over-e184-million-to-become-leading-financing-and-payments-platform-for-ecommerce/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:28.142213+00:00"
+      "last_updated": "2026-10-12T13:13:53.923207+00:00"
     },
     {
       "round_id": "f20d1613-cd97-4b88-91cf-67c91d9f65e9",
@@ -61187,22 +61667,6 @@
       "source_url": "https://techcrunch.com/2022/04/06/docyt-raises-11-5m-series-a-for-its-ai-powered-accounting-automation-service/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T12:59:33.162626+00:00"
-    },
-    {
-      "round_id": "4239a3f7-ae21-46e0-a694-bc091762ab51",
-      "company_name": "B",
-      "company_url": "https://buildersinfintech.ai/companies/b",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 19000000,
-      "currency": "CHF",
-      "announced_at": "2022-04-06",
-      "country": null,
-      "lead_investors": "Kinnevik",
-      "investors": "Kinnevik",
-      "source_url": "https://fintech.global/2022/04/06/digital-first-private-bank-alpian-snares-chf19m-in-series-b/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:32.301243+00:00"
     },
     {
       "round_id": "65438b66-cb3c-410c-892b-46cd1961c497",
@@ -61701,22 +62165,6 @@
       "last_updated": "2026-10-07T12:59:34.211505+00:00"
     },
     {
-      "round_id": "fa5b1559-47a2-4d9a-a317-917e7d7b4695",
-      "company_name": "Bold",
-      "company_url": "https://buildersinfintech.ai/companies/bold",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 55000000,
-      "currency": "USD",
-      "announced_at": "2022-04-02",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2022/04/02/colombian-paytech-bold-scores-series-b/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:29.635764+00:00"
-    },
-    {
       "round_id": "0470737a-7aa8-4d82-af32-6d6840436cc3",
       "company_name": "Archie",
       "company_url": "https://buildersinfintech.ai/companies/archie",
@@ -61731,22 +62179,6 @@
       "source_url": "https://fintech.global/2022/04/01/freelancers-fintech-archie-launches-following-4-5m-raise/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T12:59:36.955802+00:00"
-    },
-    {
-      "round_id": "0cdff954-ac0e-4158-a13b-f13a756e27e6",
-      "company_name": "Leal",
-      "company_url": "https://buildersinfintech.ai/companies/leal",
-      "round_type": "Series A",
-      "category": "equity",
-      "amount": 10000000,
-      "currency": "USD",
-      "announced_at": "2022-04-01",
-      "country": null,
-      "lead_investors": "Rakuten Capital",
-      "investors": "Rakuten Capital; IDC Ventures",
-      "source_url": "https://ffnews.com/news/leal-secures-a-10m-series-a-led-by-rakuten-capital-and-idc-ventures",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T12:59:33.704906+00:00"
     },
     {
       "round_id": "190d13ad-98cc-4cb5-b539-e5d71056e53b",
@@ -62531,22 +62963,6 @@
       "source_url": "https://techcrunch.com/2022/03/24/digits-books-65m-on-a-565m-valuation-to-bring-a-more-dynamic-automated-approach-to-legacy-accounting-tools/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:21:11.799885+00:00"
-    },
-    {
-      "round_id": "0b3df2be-21dd-4569-b72b-7d97ddd9d20e",
-      "company_name": "ChargeAfter",
-      "company_url": "https://buildersinfintech.ai/companies/chargeafter",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 44000000,
-      "currency": "USD",
-      "announced_at": "2022-03-23",
-      "country": null,
-      "lead_investors": "The Phoenix",
-      "investors": "The Phoenix; Banco Bradesco; Citi Ventures; MUFG",
-      "source_url": "https://fintech.global/2022/03/23/bnpl-platform-chargeafter-scores-series-b-round/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:21:12.301334+00:00"
     },
     {
       "round_id": "3d35af7b-ea9d-4e31-aa12-ad72d0e2cfce",
@@ -63359,7 +63775,7 @@
       "announced_at": "2022-03-16",
       "country": null,
       "lead_investors": null,
-      "investors": "USD 1",
+      "investors": null,
       "source_url": "https://techcrunch.com/2022/03/15/kenya-based-fintech-4g-capital-to-scale-lending-after-raising-18-5m-from-lightrock/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:21:15.134504+00:00"
@@ -64869,22 +65285,6 @@
       "last_updated": "2026-10-07T13:21:13.548313+00:00"
     },
     {
-      "round_id": "e8ac83de-81f9-4115-adb1-11559c82f054",
-      "company_name": "After",
-      "company_url": "https://buildersinfintech.ai/companies/after",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 4000000,
-      "currency": "USD",
-      "announced_at": "2022-03-02",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://techcrunch.com/2022/03/02/after-raising-4-million-emtech-supports-central-banks-across-africa-the-caribbean-to-deploy-regulatory-sandboxes/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:21:18.257313+00:00"
-    },
-    {
       "round_id": "1206f977-661a-4d1e-9260-ebb4955df3de",
       "company_name": "WALO",
       "company_url": "https://buildersinfintech.ai/companies/walo",
@@ -65167,7 +65567,7 @@
       "announced_at": "2022-02-28",
       "country": null,
       "lead_investors": null,
-      "investors": "Know Your Customer; TrueUSD",
+      "investors": "Know Your Customer",
       "source_url": "https://thepaypers.com/crypto-web3-and-cbdc/news/alameda-secures-up-to-usd-750-mln-credit-line",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:21:09.135091+00:00"
@@ -69590,19 +69990,19 @@
     },
     {
       "round_id": "e8e1308b-17c2-4c1c-90ba-b94daf2080c4",
-      "company_name": "Float",
-      "company_url": "https://buildersinfintech.ai/companies/float",
+      "company_name": "Float (Ghana)",
+      "company_url": "https://buildersinfintech.ai/companies/float-ghana",
       "round_type": "Seed",
       "category": "equity",
       "amount": 17000000,
       "currency": "USD",
       "announced_at": "2022-01-17",
-      "country": "Canada",
+      "country": null,
       "lead_investors": null,
       "investors": null,
       "source_url": "https://techcrunch.com/2022/01/17/ghanaian-fintech-float-raises-17m-seed-to-power-cash-flow-for-commerce-in-africa/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:21:15.134504+00:00"
+      "last_updated": "2026-10-12T08:17:47.219536+00:00"
     },
     {
       "round_id": "e9d016f0-dd63-404e-b202-e951d0423e90",
@@ -70341,22 +70741,6 @@
       "last_updated": "2026-10-07T13:21:20.890477+00:00"
     },
     {
-      "round_id": "fd4a3779-7fd2-43b8-b8e9-50436d645f8c",
-      "company_name": "Duplo",
-      "company_url": "https://buildersinfintech.ai/companies/duplo",
-      "round_type": "Seed",
-      "category": "equity",
-      "amount": 4300000,
-      "currency": "USD",
-      "announced_at": "2022-01-09",
-      "country": null,
-      "lead_investors": null,
-      "investors": "Basecamp Fund; Commerce Ventures; Liquid 2 Ventures; Soma Capital; Tribe Capital; Y Combinator",
-      "source_url": "https://fintech.global/2022/01/09/nigerian-b2b-payments-platform-duplo-raises-4-3m/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:21:18.257313+00:00"
-    },
-    {
       "round_id": "149b4528-f1bc-4076-8eec-c74ab9e5aca3",
       "company_name": "Grasshopper",
       "company_url": "https://buildersinfintech.ai/companies/grasshopper",
@@ -70853,22 +71237,6 @@
       "last_updated": "2026-10-07T13:21:20.210706+00:00"
     },
     {
-      "round_id": "c3d44cde-05bc-4bb0-99b2-d67c95bc1483",
-      "company_name": "LiveFlow",
-      "company_url": "https://buildersinfintech.ai/companies/liveflow",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 3500000,
-      "currency": "USD",
-      "announced_at": "2022-01-04",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://thepaypers.com/fintech/news/liveflow-raises-usd-35-mln-to-automate-financial-data-flows",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:21:18.954336+00:00"
-    },
-    {
       "round_id": "0a0320df-a6e5-48ed-93fc-0d49d543c148",
       "company_name": "Transigo",
       "company_url": "https://buildersinfintech.ai/companies/transigo",
@@ -70883,22 +71251,6 @@
       "source_url": "https://thepaypers.com/payments/news/fintech-transigo-receives-usd-70-mln-in-funding",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:21:11.799885+00:00"
-    },
-    {
-      "round_id": "3c3fca90-7b25-4bb4-a6d1-951713942d33",
-      "company_name": "Skio",
-      "company_url": "https://buildersinfintech.ai/companies/skio",
-      "round_type": "Seed",
-      "category": "equity",
-      "amount": 3700000,
-      "currency": "USD",
-      "announced_at": "2022-01-03",
-      "country": null,
-      "lead_investors": "Adjacent",
-      "investors": "Adjacent",
-      "source_url": "https://thepaypers.com/payments/news/skio-receives-usd-37-mln-funding-to-help-shopify-merchants",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:21:18.954336+00:00"
     },
     {
       "round_id": "4eebd657-1f71-44e5-ae99-5c7c7544d639",
@@ -71814,8 +72166,8 @@
     },
     {
       "round_id": "e3696a5e-5a0d-43a0-8aa1-63cba89cd0b5",
-      "company_name": "Mesh",
-      "company_url": "https://buildersinfintech.ai/companies/mesh",
+      "company_name": "Mesh Payments",
+      "company_url": "https://buildersinfintech.ai/companies/mesh-payments",
       "round_type": "Series B",
       "category": "equity",
       "amount": 50000000,
@@ -71826,7 +72178,7 @@
       "investors": "Tiger Global",
       "source_url": "https://fintech.global/2021/12/15/payments-disrupter-mesh-secures-series-b/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:39:20.844872+00:00"
+      "last_updated": "2026-10-12T08:17:47.219536+00:00"
     },
     {
       "round_id": "e57352a2-f98b-4e53-8b68-141c0a2f1789",
@@ -74021,22 +74373,6 @@
       "last_updated": "2026-10-07T13:39:21.150863+00:00"
     },
     {
-      "round_id": "e4285deb-9c57-4d6d-b8c8-ab51dcb5831b",
-      "company_name": "USD",
-      "company_url": "https://buildersinfintech.ai/companies/usd",
-      "round_type": "Series A",
-      "category": "equity",
-      "amount": 15000000,
-      "currency": "USD",
-      "announced_at": "2021-11-22",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://thepaypers.com/payments/news/wlth-opens-a-usd-15-mln-series-a",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:39:22.702153+00:00"
-    },
-    {
       "round_id": "fded1a2d-11b4-4a4b-adee-209547db7c04",
       "company_name": "Fractional",
       "company_url": "https://buildersinfintech.ai/companies/fractional",
@@ -74655,7 +74991,7 @@
       "announced_at": "2021-11-15",
       "country": "Mexico",
       "lead_investors": null,
-      "investors": "USD 75",
+      "investors": null,
       "source_url": "https://thepaypers.com/payments/news/stori-closes-usd-125-mln-in-series-c-funding",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:39:19.725231+00:00"
@@ -75251,22 +75587,6 @@
       "source_url": "https://ffnews.com/news/obligo-raises-35m-in-series-b-to-power-the-home-renting-experience-of-the-future",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:39:21.150863+00:00"
-    },
-    {
-      "round_id": "400bad4d-e050-42b6-8d74-b56aec5de2fd",
-      "company_name": "B",
-      "company_url": "https://buildersinfintech.ai/companies/b",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 55000000,
-      "currency": "USD",
-      "announced_at": "2021-11-05",
-      "country": null,
-      "lead_investors": "Atalaya Capital Management",
-      "investors": "Atalaya Capital Management; Warwick Capital Partners",
-      "source_url": "https://fintech.global/2021/11/05/freelancer-focused-neobank-lili-snares-55m-in-series-b-round/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:39:20.844872+00:00"
     },
     {
       "round_id": "61965b3e-e23a-4527-9eca-44b69feddee5",
@@ -75941,22 +76261,6 @@
       "last_updated": "2026-10-07T13:39:23.60684+00:00"
     },
     {
-      "round_id": "132e365b-7a85-48ed-833e-24158a1adf46",
-      "company_name": "After",
-      "company_url": "https://buildersinfintech.ai/companies/after",
-      "round_type": "Series A",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2021-10-27",
-      "country": null,
-      "lead_investors": "Partners of DST Global",
-      "investors": "Partners of DST Global",
-      "source_url": "https://fintech.global/2021/10/27/10-month-old-fintech-reaches-210m-valuation-after-series-a-close/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:39:26.297909+00:00"
-    },
-    {
       "round_id": "1fd37b4a-8d50-4cda-8e1e-aa0f24dd7792",
       "company_name": "HUBX",
       "company_url": "https://buildersinfintech.ai/companies/hubx",
@@ -76323,22 +76627,6 @@
       "source_url": "https://fintech.global/2021/10/22/sustainable-banker-ando-pulls-in-6m-seed-financing-in-wealthtech/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:39:24.135633+00:00"
-    },
-    {
-      "round_id": "06fd0063-4576-42b4-89bc-d6a730d98f8a",
-      "company_name": "FinTech",
-      "company_url": "https://buildersinfintech.ai/companies/fintech",
-      "round_type": "IPO",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2021-10-22",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://www.pymnts.com/news/investment-tracker/ipo/2021/spac-listings-target-blockchain-fintech/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:39:26.732058+00:00"
     },
     {
       "round_id": "0f19644d-6f6a-4637-b3ea-61b51f96bb4e",
@@ -77462,7 +77750,7 @@
     },
     {
       "round_id": "5cc31200-60a1-4c64-8edb-66d14c90e94c",
-      "company_name": "Banking Startup Open",
+      "company_name": "Open Financial Technologies",
       "company_url": "https://buildersinfintech.ai/companies/banking-startup-open",
       "round_type": "Unspecified",
       "category": "equity",
@@ -77583,7 +77871,7 @@
       "announced_at": "2021-10-11",
       "country": null,
       "lead_investors": null,
-      "investors": "of Afterpay; Westpac; Zipmex",
+      "investors": "Westpac; Zipmex",
       "source_url": "https://techcrunch.com/2021/10/11/frankieone-nabs-16m-to-provide-fintechs-with-id-and-fraud-management-as-a-service/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:39:22.204138+00:00"
@@ -77651,22 +77939,6 @@
       "source_url": "https://techcrunch.com/2021/10/11/korean-robo-advisor-fount-bags-33-4m-to-advance-its-ai-based-platform/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:39:21.500741+00:00"
-    },
-    {
-      "round_id": "94f6e002-ef6d-4cc2-a5f5-c1311e53d919",
-      "company_name": "Mastercard",
-      "company_url": "https://buildersinfintech.ai/companies/mastercard",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2021-10-10",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://www.pymnts.com/news/investment-tracker/2021/consensys-investors-jpmorgan-mastercard-3-billion-dollar-valuation/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:39:26.732058+00:00"
     },
     {
       "round_id": "31dd417c-4c0d-4296-a76f-8d838f71a739",
@@ -77779,22 +78051,6 @@
       "source_url": "https://techcrunch.com/2021/10/07/backed-by-greycroft-klasha-gets-2-4m-to-improve-cross-border-commerce-in-africa/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:39:25.573955+00:00"
-    },
-    {
-      "round_id": "3dc41176-71fe-4293-90e9-33560547d068",
-      "company_name": "B",
-      "company_url": "https://buildersinfintech.ai/companies/b",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 93000000,
-      "currency": "USD",
-      "announced_at": "2021-10-07",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://tech.eu/2021/10/07/neo-insurer-getsafe-pushes-series-b-raise-to-93-million-goes-after-its-own-insurance-license/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:39:20.073285+00:00"
     },
     {
       "round_id": "4a4ad79a-e651-40db-a93b-1ca890883e93",
@@ -77955,22 +78211,6 @@
       "source_url": "https://ffnews.com/news/duality-technologies-raises-30m-to-accelerate-the-use-of-privacy-enhanced-financial-crime-solutions-funding",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:39:21.500741+00:00"
-    },
-    {
-      "round_id": "3a9e8b24-d872-4451-ae53-ab436ab2585e",
-      "company_name": "USD",
-      "company_url": "https://buildersinfintech.ai/companies/usd",
-      "round_type": "Growth",
-      "category": "equity",
-      "amount": 70000000,
-      "currency": "USD",
-      "announced_at": "2021-10-05",
-      "country": null,
-      "lead_investors": null,
-      "investors": "Wells Fargo",
-      "source_url": "https://thepaypers.com/fintech/news/bank-dbs-indonesia-and-kredivo-increase-joint-financing-limit-to-usd-70-mln",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:39:20.44296+00:00"
     },
     {
       "round_id": "3ed0c01f-7027-46b8-9362-d0a62dc7a1ce",
@@ -78467,22 +78707,6 @@
       "source_url": "https://fintech.global/2021/09/29/irish-regtech-dataships-sails-to-seed-round-close-regtech/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:53:10.079986+00:00"
-    },
-    {
-      "round_id": "3e1ecd33-0134-4134-a5ba-85176686b77f",
-      "company_name": "QisstPay",
-      "company_url": "https://buildersinfintech.ai/companies/qisstpay",
-      "round_type": "Pre-seed",
-      "category": "equity",
-      "amount": 15000000,
-      "currency": "USD",
-      "announced_at": "2021-09-29",
-      "country": null,
-      "lead_investors": "MSA Capital",
-      "investors": "MSA Capital; First Check Ventures; Fox Ventures; Global Founders Capital",
-      "source_url": "https://www.pymnts.com/bnpl/2021/pakistan-qisstpay-notches-15-million-grow-bnpl-platform/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:53:06.424715+00:00"
     },
     {
       "round_id": "86f46fd6-f771-4742-87d5-6bfdb87bfbd5",
@@ -79366,7 +79590,7 @@
     },
     {
       "round_id": "84c90b9b-dec2-4b7d-ac77-7c953201d105",
-      "company_name": "Mineral",
+      "company_name": "Open Mineral",
       "company_url": "https://buildersinfintech.ai/companies/mineral",
       "round_type": "Series C",
       "category": "equity",
@@ -79843,22 +80067,6 @@
       "source_url": "https://fintech.global/2021/09/12/identity-verification-company-passbase-nabs-series-a-funding/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:53:08.127139+00:00"
-    },
-    {
-      "round_id": "3bcbea9f-ddcf-4619-ac1c-76c7fe6a2d1d",
-      "company_name": "FinTech",
-      "company_url": "https://buildersinfintech.ai/companies/fintech",
-      "round_type": "IPO",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2021-09-10",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://www.pymnts.com/news/investment-tracker/ipo/2021/fintech-id-focused-firms-helm-public-listing-announcements-this-week/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:53:12.203304+00:00"
     },
     {
       "round_id": "47065bb4-cbdd-4fe9-97f3-5eecf76b6c8f",
@@ -80339,22 +80547,6 @@
       "source_url": "https://fintech.global/2021/09/07/background-check-platform-veremark-extends-seed-round-by-2-8m-regtech/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:53:10.775086+00:00"
-    },
-    {
-      "round_id": "e4066057-dba9-4ebc-b206-75d462436b85",
-      "company_name": "Skeps",
-      "company_url": "https://buildersinfintech.ai/companies/skeps",
-      "round_type": "Series A",
-      "category": "equity",
-      "amount": 9500000,
-      "currency": "USD",
-      "announced_at": "2021-09-07",
-      "country": null,
-      "lead_investors": "Bertelsmann India Investments",
-      "investors": "Bertelsmann India Investments",
-      "source_url": "https://ffnews.com/news/skeps-announces-9-5m-series-a-funding-led-by-bertelsmann-india-investments",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:53:08.127139+00:00"
     },
     {
       "round_id": "2819e5f3-043d-4438-9eef-8502fd2903d4",
@@ -80901,22 +81093,6 @@
       "last_updated": "2026-10-07T13:53:02.885542+00:00"
     },
     {
-      "round_id": "082fd39c-e563-4335-82bd-b96c5fa552bf",
-      "company_name": "Governance",
-      "company_url": "https://buildersinfintech.ai/companies/governance",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 300000,
-      "currency": null,
-      "announced_at": "2021-08-31",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://www.prnewswire.com/news-releases/defi-technologies-provides-update-on-its-governance-business---announces-initial-shyft-network-node-earning-of-300k-of-shyft-tokens-over-two-months-301365835.html",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:53:11.822194+00:00"
-    },
-    {
       "round_id": "1c9b4f4d-ead4-42b2-ad3c-7cb17546c123",
       "company_name": "OneDegree",
       "company_url": "https://buildersinfintech.ai/companies/onedegree",
@@ -80963,22 +81139,6 @@
       "source_url": "https://tech.eu/2021/08/31/fintech-data-defragmenter-sikoia-raises-2-3-million/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:53:10.775086+00:00"
-    },
-    {
-      "round_id": "6e292e0b-0c70-4ce9-a4cb-30f3fb668d54",
-      "company_name": "Latest Funding",
-      "company_url": "https://buildersinfintech.ai/companies/latest-funding",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2021-08-31",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://www.pymnts.com/news/investment-tracker/2021/payments-startup-melio-may-reach-4-billion-dollar-valuation-latest-funding/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:53:12.203304+00:00"
     },
     {
       "round_id": "6ed38a86-d400-4adb-a153-b78766cc54b7",
@@ -82325,22 +82485,6 @@
       "last_updated": "2026-10-07T13:52:59.833211+00:00"
     },
     {
-      "round_id": "c9fd63a1-1e76-40e5-ad3d-da60e1195abe",
-      "company_name": "Valuation After Investment Round",
-      "company_url": "https://buildersinfintech.ai/companies/valuation-after-investment-round",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2021-08-13",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://www.pymnts.com/news/investment-tracker/2021/argentine-fintech-uala-attains-2-45b-valuation-after-investment-round/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:53:12.203304+00:00"
-    },
-    {
       "round_id": "cb65b09f-977a-47a4-a6bf-1bbeeb7344ae",
       "company_name": "Lime",
       "company_url": "https://buildersinfintech.ai/companies/lime",
@@ -82483,22 +82627,6 @@
       "source_url": "https://techcrunch.com/2021/08/09/freshbooks-secures-130-75m/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:53:00.839899+00:00"
-    },
-    {
-      "round_id": "511110f2-31cb-4fa2-8c7c-dceff9763574",
-      "company_name": "After",
-      "company_url": "https://buildersinfintech.ai/companies/after",
-      "round_type": "Series A",
-      "category": "equity",
-      "amount": 10000000,
-      "currency": "USD",
-      "announced_at": "2021-08-10",
-      "country": null,
-      "lead_investors": "Link Ventures",
-      "investors": "Link Ventures; Fiat Ventures; Invest Nebraska; Northwestern Mutual Future Ventures; Silicon Valley Bank",
-      "source_url": "https://techcrunch.com/2021/08/10/after-raising-10m-breeze-breathes-fresh-air-into-a-stagnant-disability-insurance-market/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:53:07.211883+00:00"
     },
     {
       "round_id": "ca32b403-de6b-44ef-b01b-2fc2090d46bf",
@@ -83401,7 +83529,7 @@
       "company_name": "Behalf",
       "company_url": "https://buildersinfintech.ai/companies/behalf",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 100000000,
       "currency": "USD",
       "announced_at": "2021-07-29",
@@ -83410,7 +83538,7 @@
       "investors": "MissionOG; Partners; Viola Credit",
       "source_url": "https://fintech.global/2021/07/29/behalf-banks-100m-debt-facility-to-scale-its-b2b-bnpl-offering/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:53:01.3856+00:00"
+      "last_updated": "2026-10-12T13:36:53.588731+00:00"
     },
     {
       "round_id": "37c59d16-7add-4c7d-8702-c977590f69ee",
@@ -85845,22 +85973,6 @@
       "last_updated": "2026-10-07T13:53:12.203304+00:00"
     },
     {
-      "round_id": "1ee4fd94-3ffe-47bc-bafb-7237192402a7",
-      "company_name": "Orum",
-      "company_url": "https://buildersinfintech.ai/companies/orum",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 56000000,
-      "currency": "USD",
-      "announced_at": "2021-07-02",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://ffnews.com/news/orum-raises-56m-in-series-b-funding-to-transform-how-money-moves",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:53:02.885542+00:00"
-    },
-    {
       "round_id": "816d99f9-9be5-4361-92dc-ac3b2f16db64",
       "company_name": "EIS",
       "company_url": "https://buildersinfintech.ai/companies/eis",
@@ -85923,22 +86035,6 @@
       "source_url": "https://fintech.global/2021/07/01/codat-collects-40m-in-funding-as-it-gears-up-us-expansion-efforts/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T13:53:03.492089+00:00"
-    },
-    {
-      "round_id": "415ccb63-b049-41fb-a299-8494a70c4b0b",
-      "company_name": "Former Zillow",
-      "company_url": "https://buildersinfintech.ai/companies/former-zillow",
-      "round_type": "Seed",
-      "category": "equity",
-      "amount": 70000000,
-      "currency": "USD",
-      "announced_at": "2021-07-01",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2021/07/01/former-zillow-execs-raise-70m-seed-round-for-tomo-to-digitalise-the-mortgage-process/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T13:53:01.997369+00:00"
     },
     {
       "round_id": "4c71571e-a5f1-4bb9-a3f0-8576b531dadc",
@@ -89077,22 +89173,6 @@
       "last_updated": "2026-10-07T14:06:44.389718+00:00"
     },
     {
-      "round_id": "8eb64a92-cbc9-4ea7-b32f-ef0b1dc34870",
-      "company_name": "TagPay",
-      "company_url": "https://buildersinfintech.ai/companies/tagpay",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 25000000,
-      "currency": "EUR",
-      "announced_at": "2021-06-01",
-      "country": null,
-      "lead_investors": null,
-      "investors": "Long Arc Capital",
-      "source_url": "https://fintech.global/2021/06/01/french-fintech-company-tagpay-bags-e25m-in-new-funding/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:06:41.353322+00:00"
-    },
-    {
       "round_id": "923f1116-02e8-43ce-91f0-f5088f431f9a",
       "company_name": "Novidea",
       "company_url": "https://buildersinfintech.ai/companies/novidea",
@@ -89491,22 +89571,6 @@
       "source_url": "https://fintech.global/2021/05/27/tilled-secures-11m-series-a-to-boost-software-payment-monetisation/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T14:06:42.775021+00:00"
-    },
-    {
-      "round_id": "646267b2-f75c-4a91-b50e-d6c1bcf41512",
-      "company_name": "USD",
-      "company_url": "https://buildersinfintech.ai/companies/usd",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 50000000,
-      "currency": "USD",
-      "announced_at": "2021-05-27",
-      "country": null,
-      "lead_investors": "Arena Holdings",
-      "investors": "Arena Holdings",
-      "source_url": "https://thepaypers.com/fintech/news/sevdesk-gathers-usd-50-mln-in-funding",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:06:40.14859+00:00"
     },
     {
       "round_id": "721dc137-303a-4eb4-bf59-9a03a3365082",
@@ -91539,22 +91603,6 @@
       "source_url": "https://fintech.global/2021/05/04/secret-network-scores-11-5m-to-further-develop-defi-and-nfts-with-privacy-protection/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T14:06:42.775021+00:00"
-    },
-    {
-      "round_id": "eda04c58-b54f-4e2e-b633-82ace4bf23e4",
-      "company_name": "FCA",
-      "company_url": "https://buildersinfintech.ai/companies/fca",
-      "round_type": "IPO",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2021-05-04",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2021/05/04/swedens-trustly-scraps-950m-ipo-plans-after-review-by-swedish-fca/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:06:46.783955+00:00"
     },
     {
       "round_id": "4e65a769-8a35-4f68-bfa9-8deff5e3490a",
@@ -93605,22 +93653,6 @@
       "last_updated": "2026-10-07T14:06:43.319786+00:00"
     },
     {
-      "round_id": "b176d214-b0d9-4de5-99dc-d6604f80107c",
-      "company_name": "AIM",
-      "company_url": "https://buildersinfintech.ai/companies/aim",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 2700000,
-      "currency": "GBP",
-      "announced_at": "2021-04-06",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2021/04/06/fintech-firm-cornerstone-makes-debut-on-aim-on-the-back-of-2-7m-round/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:06:45.477771+00:00"
-    },
-    {
       "round_id": "fe3b08a1-f095-4267-a6bb-c6e50ee7ecd6",
       "company_name": "Future FinTech Group",
       "company_url": "https://buildersinfintech.ai/companies/future-fintech-group",
@@ -95317,22 +95349,6 @@
       "last_updated": "2026-10-06T22:17:44.362146+00:00"
     },
     {
-      "round_id": "bab6fe67-113f-47c9-80d6-c496c0d94d5d",
-      "company_name": "First Boulevard",
-      "company_url": "https://buildersinfintech.ai/companies/first-boulevard",
-      "round_type": "Seed",
-      "category": "equity",
-      "amount": 5000000,
-      "currency": "USD",
-      "announced_at": "2021-03-01",
-      "country": null,
-      "lead_investors": null,
-      "investors": "Gabrielle Union; Jamere Jackson; John Buttrick",
-      "source_url": "https://www.prnewswire.com/news-releases/neobank-first-boulevard-raises-5-million-seed-investment-to-help-black-america-build-generational-wealth-and-receive-cash-back-for-buying-black-301237506.html",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-06T22:17:45.342742+00:00"
-    },
-    {
       "round_id": "92227f35-c0cd-4a18-964f-6de064862f56",
       "company_name": "First Boulevard",
       "company_url": "https://buildersinfintech.ai/companies/first-boulevard",
@@ -95605,22 +95621,6 @@
       "last_updated": "2026-10-07T14:15:07.785096+00:00"
     },
     {
-      "round_id": "96224941-844a-43a0-a2a7-a9f52847e92c",
-      "company_name": "FCA",
-      "company_url": "https://buildersinfintech.ai/companies/fca",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 3420000,
-      "currency": "GBP",
-      "announced_at": "2021-02-24",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2021/02/24/fca-to-return-3-42m-to-victims-of-unauthorised-investment-schemes/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:15:08.20358+00:00"
-    },
-    {
       "round_id": "a64df3ef-ada2-4acb-b055-f6d28a7aebdd",
       "company_name": "Sawayo",
       "company_url": "https://buildersinfintech.ai/companies/sawayo",
@@ -95779,22 +95779,6 @@
       "source_url": "https://fintech.global/2021/02/23/creatio-scores-68m-in-growth-funding/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T14:15:06.101699+00:00"
-    },
-    {
-      "round_id": "27a6b132-6320-4623-bce6-05c63ea85dc5",
-      "company_name": "SEC",
-      "company_url": "https://buildersinfintech.ai/companies/sec",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 3000000,
-      "currency": "USD",
-      "announced_at": "2021-02-22",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2021/02/22/sec-announces-almost-3m-award-to-two-whistleblowers/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:15:08.20358+00:00"
     },
     {
       "round_id": "565cdf11-4a04-48e1-a0a7-dc4ec2a267cf",
@@ -95993,7 +95977,7 @@
       "company_name": "Founderpath",
       "company_url": "https://buildersinfintech.ai/companies/founderpath",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 10000000,
       "currency": "USD",
       "announced_at": "2021-02-18",
@@ -96002,7 +95986,7 @@
       "investors": "Dan Martel; of Clarity; of Grasshopper David Hauser; of Rackspace Pat Condon; of Webmail Bill Boebel",
       "source_url": "https://fintech.global/2021/02/18/founderpath-secures-10m-in-debt-financing-round/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:15:07.321418+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "58d24a10-975f-4dd7-8c34-bed6f44d839a",
@@ -96467,22 +96451,6 @@
       "source_url": "https://ffnews.com/news/northmill-bank-is-conducting-a-capital-round-of-sek-250-million",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T14:15:05.302608+00:00"
-    },
-    {
-      "round_id": "57ff9ca5-c87e-4784-b4ab-d97c10720a31",
-      "company_name": "Lamaa",
-      "company_url": "https://buildersinfintech.ai/companies/lamaa",
-      "round_type": "Seed",
-      "category": "equity",
-      "amount": 5500000,
-      "currency": "USD",
-      "announced_at": "2021-02-12",
-      "country": null,
-      "lead_investors": "Raed Ventures",
-      "investors": "Raed Ventures; Wa'ed",
-      "source_url": "https://fintech.global/2021/02/12/lamaa-closes-one-of-saudi-arabias-largest-seed-rounds/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:15:07.785096+00:00"
     },
     {
       "round_id": "5ce47055-1237-42ba-88aa-cece10c466d8",
@@ -98869,22 +98837,6 @@
       "last_updated": "2026-10-07T14:15:06.425872+00:00"
     },
     {
-      "round_id": "24ae4380-d9a8-4b6b-945a-b78f4a7bab50",
-      "company_name": "Vic.ai",
-      "company_url": "https://buildersinfintech.ai/companies/vic-ai",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 50000000,
-      "currency": "USD",
-      "announced_at": "2021-01-09",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2021/01/09/accounting-automation-platform-vic-ai-closes-series-b/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:15:06.101699+00:00"
-    },
-    {
       "round_id": "a9b91621-cbad-42a4-8f79-5dbe7d5788f7",
       "company_name": "Lextegrity",
       "company_url": "https://buildersinfintech.ai/companies/lextegrity",
@@ -99449,7 +99401,7 @@
       "company_name": "Liberis",
       "company_url": "https://buildersinfintech.ai/companies/liberis",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 70000000,
       "currency": "GBP",
       "announced_at": "2020-12-22",
@@ -99458,7 +99410,7 @@
       "investors": null,
       "source_url": "https://techcrunch.com/2020/12/22/liberis-the-embedded-finance-provider-for-smes-raises-additional-70m-in-equity-and-debt/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:29:23.429251+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "30586efa-d608-4f7d-9391-4aacdfaa4044",
@@ -101769,7 +101721,7 @@
       "company_name": "VC",
       "company_url": "https://buildersinfintech.ai/companies/vc",
       "round_type": "Fund",
-      "category": "equity",
+      "category": "fund",
       "amount": 75000000,
       "currency": "USD",
       "announced_at": "2020-11-13",
@@ -101778,7 +101730,7 @@
       "investors": null,
       "source_url": "https://techcrunch.com/2020/11/12/this-fintech-focused-vc-firm-just-closed-a-75-million-debut-fund-backers-came-out-of-the-woodwork/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:29:22.949572+00:00"
+      "last_updated": "2026-10-12T13:49:37.731121+00:00"
     },
     {
       "round_id": "fb902f23-cd35-4182-9091-595c661809ba",
@@ -102805,6 +102757,22 @@
       "last_updated": "2026-10-07T14:29:26.401816+00:00"
     },
     {
+      "round_id": "743769a2-525a-4d53-9b1d-45cba147f9ca",
+      "company_name": "Silverflow",
+      "company_url": "https://buildersinfintech.ai/companies/silverflow",
+      "round_type": "Seed",
+      "category": "equity",
+      "amount": 2600000,
+      "currency": "EUR",
+      "announced_at": "2020-10-22",
+      "country": null,
+      "lead_investors": null,
+      "investors": null,
+      "source_url": "https://techcrunch.com/2020/10/22/adyen-alumni-raise-e2-6m-seed-to-launch-silverflow-a-cloud-native-card-payments-processor/",
+      "coverage_source": "pipeline",
+      "last_updated": "2026-10-12T13:49:37.731121+00:00"
+    },
+    {
       "round_id": "74c18254-8b2b-4744-9ece-40a2eaa356ae",
       "company_name": "principles",
       "company_url": "https://buildersinfintech.ai/companies/principles",
@@ -102835,22 +102803,6 @@
       "source_url": "https://fintech.global/2020/10/22/data-ownership-platform-mine-closes-9-5m-series-a/",
       "coverage_source": "archive",
       "last_updated": "2026-10-07T14:29:25.277511+00:00"
-    },
-    {
-      "round_id": "c34c8583-2836-426a-91bd-d0c415ef6dce",
-      "company_name": "Adyen",
-      "company_url": "https://buildersinfintech.ai/companies/adyen",
-      "round_type": "Seed",
-      "category": "equity",
-      "amount": 2600000,
-      "currency": "EUR",
-      "announced_at": "2020-10-22",
-      "country": null,
-      "lead_investors": null,
-      "investors": "Inkef Capital",
-      "source_url": "https://techcrunch.com/2020/10/22/adyen-alumni-raise-e2-6m-seed-to-launch-silverflow-a-cloud-native-card-payments-processor/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-07T14:29:26.879891+00:00"
     },
     {
       "round_id": "12dffb2a-2a0f-4a49-8671-90628cbdfd10",
@@ -104243,22 +104195,6 @@
       "source_url": "https://fintech.global/2020/06/26/scotlands-fintech-ecosystem-gets-22-5m-power-boost-to-fund-global-open-finance-centre-of-excellence/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T08:40:20.436269+00:00"
-    },
-    {
-      "round_id": "e8f4dc31-0b19-4fb1-a863-eb02e8eea76d",
-      "company_name": "After",
-      "company_url": "https://buildersinfintech.ai/companies/after",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 20000000,
-      "currency": "EUR",
-      "announced_at": "2020-06-26",
-      "country": null,
-      "lead_investors": null,
-      "investors": "BlackFin Capital Partners; Daphni",
-      "source_url": "https://thepaypers.com/fintech/news/after-securing-credit-license-and-eur-20-mln-funding-memo-bank-to-launch-business-bank",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T08:40:20.93552+00:00"
     },
     {
       "round_id": "0aaccec2-7a8b-4fed-9e35-275bc58879c9",
@@ -107205,38 +107141,6 @@
       "last_updated": "2026-10-08T08:40:19.352107+00:00"
     },
     {
-      "round_id": "6d2b4b66-e397-4ab6-ab7a-7e75d29cee2f",
-      "company_name": "SEC",
-      "company_url": "https://buildersinfintech.ai/companies/sec",
-      "round_type": "Crowdfunding",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2020-05-04",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://techcrunch.com/2020/05/04/sec-loosens-crowdfunding-regs-so-small-businesses-can-raise-alternative-financing-in-pandemic/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T08:40:24.70518+00:00"
-    },
-    {
-      "round_id": "80582bae-1340-42c8-87cd-27f9093986a9",
-      "company_name": "Mastercard",
-      "company_url": "https://buildersinfintech.ai/companies/mastercard",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 3700000,
-      "currency": "USD",
-      "announced_at": "2020-05-04",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://thepaypers.com/fintech/news/mastercard-enel-x-secure-usd-37-mln-funding-for-fintech-cybersecurity-lab-in-israel",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T08:40:23.692913+00:00"
-    },
-    {
       "round_id": "93e94909-b382-4be8-adf4-88cb75193b61",
       "company_name": "Snoop",
       "company_url": "https://buildersinfintech.ai/companies/snoop",
@@ -109369,7 +109273,7 @@
       "company_name": "Quona Capital",
       "company_url": "https://buildersinfintech.ai/investors/quona-capital",
       "round_type": "Fund",
-      "category": "equity",
+      "category": "fund",
       "amount": 203000000,
       "currency": "USD",
       "announced_at": "2020-03-09",
@@ -109378,7 +109282,7 @@
       "investors": "JULO; KoinWorks; Sunday; Ula",
       "source_url": "https://fintech.global/2020/03/09/quona-capital-closes-sophomore-fintech-fund-on-203m/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:03:06.188595+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "a2e12e70-0daf-4ce2-9775-e4cb9d3c89d1",
@@ -110369,22 +110273,6 @@
       "lead_investors": null,
       "investors": "Bpifrance; Long Arc Capital",
       "source_url": "https://fintech.global/2020/02/13/tinubu-square-collects-e15m-in-round-as-it-makes-headway-on-its-five-year-growth-plan/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:03:06.782349+00:00"
-    },
-    {
-      "round_id": "d0241799-71fb-46c7-9eb9-096511d6ffff",
-      "company_name": "B",
-      "company_url": "https://buildersinfintech.ai/companies/b",
-      "round_type": "Series B",
-      "category": "equity",
-      "amount": 28000000,
-      "currency": "USD",
-      "announced_at": "2020-02-13",
-      "country": null,
-      "lead_investors": null,
-      "investors": "Santander InnoVentures; SBI Group",
-      "source_url": "https://fintech.global/2020/02/13/elliptic-taps-wells-fargo-strategic-capital-for-its-28m-series-b-round-to-fund-its-international-expansion/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T09:03:06.782349+00:00"
     },
@@ -111445,22 +111333,6 @@
       "last_updated": "2026-10-08T09:03:07.017584+00:00"
     },
     {
-      "round_id": "835a9e45-785a-4ab0-a095-1884d9ef031e",
-      "company_name": "USD52",
-      "company_url": "https://buildersinfintech.ai/companies/usd52",
-      "round_type": "Series C",
-      "category": "equity",
-      "amount": 52000000,
-      "currency": "USD",
-      "announced_at": "2020-01-10",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://ffnews.com/news/usd52000000-series-c-opportunity-on-angelhub",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:03:06.502655+00:00"
-    },
-    {
       "round_id": "95fd8bc1-62e1-45ff-85ab-f400fe9a57e6",
       "company_name": "Yotta Savings",
       "company_url": "https://buildersinfintech.ai/companies/yotta-savings",
@@ -112169,7 +112041,7 @@
       "company_name": "Floryn",
       "company_url": "https://buildersinfintech.ai/companies/floryn",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 60000000,
       "currency": "EUR",
       "announced_at": "2019-12-11",
@@ -112178,7 +112050,7 @@
       "investors": "NIBC",
       "source_url": "https://tech.eu/2019/12/11/dutch-fintech-floryn-raises-e60-million-debt-to-triple-its-alternative-lending-for-smb/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:13:44.207873+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "e3be0785-4e71-475f-ba4e-a7b7de67ba16",
@@ -113113,7 +112985,7 @@
       "company_name": "Northzone",
       "company_url": "https://buildersinfintech.ai/companies/northzone",
       "round_type": "Fund",
-      "category": "equity",
+      "category": "fund",
       "amount": 500000000,
       "currency": "USD",
       "announced_at": "2019-11-19",
@@ -113122,7 +112994,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2019/11/19/northzone-closes-500m-fund-to-invest-into-fintech-startups/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:13:43.881895+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "15870c84-4c25-4ed3-ac26-a375538176e1",
@@ -114025,16 +113897,16 @@
       "company_name": "Nasdaq",
       "company_url": "https://buildersinfintech.ai/companies/nasdaq",
       "round_type": "IPO",
-      "category": "equity",
+      "category": "ipo",
       "amount": null,
       "currency": null,
       "announced_at": "2019-10-29",
-      "country": null,
+      "country": "United States",
       "lead_investors": null,
       "investors": null,
       "source_url": "https://www.pymnts.com/news/investment-tracker/ipo/2019/chinese-bitcoin-mining-firm-canaan-creative-to-list-on-nasdaq/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:13:46.894608+00:00"
+      "last_updated": "2026-10-12T13:49:37.731121+00:00"
     },
     {
       "round_id": "19c38c2a-01ab-477d-bdd6-cf90a196c028",
@@ -114179,22 +114051,6 @@
       "source_url": "https://fintech.global/2019/10/25/fairmarkit-scores-11m-in-series-a-led-by-insight-partners/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T09:13:45.432604+00:00"
-    },
-    {
-      "round_id": "be73f0d4-4489-4a25-aa5f-49881ec81b97",
-      "company_name": "TD Bank",
-      "company_url": "https://buildersinfintech.ai/companies/td-bank",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 30000000,
-      "currency": null,
-      "announced_at": "2019-10-25",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://ffnews.com/news/td-bank-group-announces-intention-to-repurchase-for-cancellation-up-to-30-million-of-its-common-shares",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:13:44.570353+00:00"
     },
     {
       "round_id": "f45e00a4-3aff-4732-a8c9-d3211dcbd512",
@@ -115862,8 +115718,8 @@
     },
     {
       "round_id": "746b463a-1d68-4447-a434-f8f5a7254639",
-      "company_name": "Neon",
-      "company_url": "https://buildersinfintech.ai/companies/neon",
+      "company_name": "neon (Switzerland)",
+      "company_url": "https://buildersinfintech.ai/companies/neon-switzerland",
       "round_type": "Unspecified",
       "category": "equity",
       "amount": 5000000,
@@ -115874,7 +115730,7 @@
       "investors": "Tamedia",
       "source_url": "https://fintech.global/2019/09/23/neon-collects-chf-5m-in-funding-to-support-product-expansion/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:38:06.99634+00:00"
+      "last_updated": "2026-10-12T08:17:47.219536+00:00"
     },
     {
       "round_id": "9032271b-c1b8-48fc-a317-695942a805b6",
@@ -117385,7 +117241,7 @@
       "company_name": "MPOWER Financing",
       "company_url": "https://buildersinfintech.ai/companies/mpower-financing",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 100000000,
       "currency": "USD",
       "announced_at": "2019-08-20",
@@ -117394,7 +117250,7 @@
       "investors": "Goldman Sachs",
       "source_url": "https://fintech.global/2019/08/20/mpower-financing-secured-a100m-loan-facility-from-goldman-sachs-to-help-with-student-loans/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:38:05.276942+00:00"
+      "last_updated": "2026-10-12T13:36:53.588731+00:00"
     },
     {
       "round_id": "b7fafb1c-69ff-4ec6-a2e7-a39485365bba",
@@ -117475,22 +117331,6 @@
       "source_url": "https://tech.eu/2019/08/15/flatfair-raises-over-9-million/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T09:38:06.664888+00:00"
-    },
-    {
-      "round_id": "f555ec8f-88db-4ab5-a92f-eccf36a99dc3",
-      "company_name": "ID",
-      "company_url": "https://buildersinfintech.ai/companies/id",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2019-08-15",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2019/08/15/tpg-gives-id-authentication-business-au10tix-260m-valuation-through-stake-buy/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:38:08.235908+00:00"
     },
     {
       "round_id": "22dcbc3e-7339-49d9-84fa-4b24ab5f37cd",
@@ -117615,7 +117455,7 @@
       "announced_at": "2019-08-09",
       "country": null,
       "lead_investors": null,
-      "investors": "Bangalore-based Zest Money; Capital Float; Drip Capital; Five Star Finance; Indifi; USD 25",
+      "investors": "Bangalore-based Zest Money; Capital Float; Drip Capital; Five Star Finance; Indifi",
       "source_url": "https://techcrunch.com/2019/08/09/india-lendingkart/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T09:38:05.939267+00:00"
@@ -118121,7 +117961,7 @@
       "company_name": "Sezzle",
       "company_url": "https://buildersinfintech.ai/companies/sezzle",
       "round_type": "IPO",
-      "category": "equity",
+      "category": "ipo",
       "amount": null,
       "currency": null,
       "announced_at": "2019-07-30",
@@ -118130,7 +117970,7 @@
       "investors": null,
       "source_url": "https://www.prnewswire.com/news-releases/disruptive-payment-solution-sezzle-completes-initial-public-offering-on-australian-exchange-300893255.html",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:38:08.235908+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "a60f7af6-a38e-4a1f-8473-ff8e08fbf1f2",
@@ -118207,7 +118047,7 @@
       "announced_at": "2019-07-26",
       "country": null,
       "lead_investors": null,
-      "investors": "CNY; EUR; GBP; JPY; USD",
+      "investors": "CNY; EUR; GBP; JPY",
       "source_url": "https://thepaypers.com/payments/news/payments-startup-paysend-completes-gbp-85-mln-series-b",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T09:38:06.664888+00:00"
@@ -119097,7 +118937,7 @@
       "company_name": "Landbay",
       "company_url": "https://buildersinfintech.ai/companies/landbay",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 1000000000,
       "currency": "GBP",
       "announced_at": "2019-07-08",
@@ -119106,7 +118946,7 @@
       "investors": null,
       "source_url": "https://tech.eu/2019/07/08/uk-fintech-startup-landbay-inks-1-billion-funding-agreement-for-its-buy-to-let-mortgage-marketplace/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T09:38:04.90947+00:00"
+      "last_updated": "2026-10-12T13:49:37.731121+00:00"
     },
     {
       "round_id": "d9795aa9-5a02-4873-9f18-3e4b5ba6601d",
@@ -119446,7 +119286,7 @@
     },
     {
       "round_id": "10b201e9-75bc-43ef-b4e9-7fcb6a20a861",
-      "company_name": "Banking Startup Open",
+      "company_name": "Open Financial Technologies",
       "company_url": "https://buildersinfintech.ai/companies/banking-startup-open",
       "round_type": "Series B",
       "category": "equity",
@@ -120405,22 +120245,6 @@
       "last_updated": "2026-10-08T11:54:46.91685+00:00"
     },
     {
-      "round_id": "d9c7d886-56d8-4483-aa89-0c9dc6fc5d9a",
-      "company_name": "ChargeAfter",
-      "company_url": "https://buildersinfintech.ai/companies/chargeafter",
-      "round_type": "Series A",
-      "category": "equity",
-      "amount": 8000000,
-      "currency": "USD",
-      "announced_at": "2019-05-29",
-      "country": null,
-      "lead_investors": null,
-      "investors": "PICO Venture Partners; Play; Synchrony; the Plug",
-      "source_url": "https://www.prnewswire.com/news-releases/chargeafter-raises-8-million-in-series-a-funding-to-expand-its-multi-lender-point-of-sale-financing-platform-300858061.html",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T11:54:47.980841+00:00"
-    },
-    {
       "round_id": "1b3bbbc3-be00-48cc-9330-e779274405e1",
       "company_name": "startup Open Payments",
       "company_url": "https://buildersinfintech.ai/companies/startup-open-payments",
@@ -120963,22 +120787,6 @@
       "source_url": "https://fintech.global/2019/05/13/gobear-collects-80m-in-funding-to-support-product-enhancements/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T11:54:46.91685+00:00"
-    },
-    {
-      "round_id": "0dee43ab-ac29-4eb2-b30b-e3b8768a342d",
-      "company_name": "Evident ID USD",
-      "company_url": "https://buildersinfintech.ai/companies/evident-id-usd",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 20000000,
-      "currency": null,
-      "announced_at": "2019-05-12",
-      "country": null,
-      "lead_investors": "Aspect Ventures",
-      "investors": "Aspect Ventures; Blue Cloud Ventures; Enterprise Associates; Tom Noonan",
-      "source_url": "https://thepaypers.com/payments/news/evident-id-usd-raises-20-mln-to-boost-remote-onboarding-process",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T11:54:47.668953+00:00"
     },
     {
       "round_id": "3301eddf-af55-4b07-b56f-b110dad72f1c",
@@ -122473,7 +122281,7 @@
       "company_name": "Yalber",
       "company_url": "https://buildersinfintech.ai/companies/yalber",
       "round_type": "Unspecified",
-      "category": "equity",
+      "category": "debt",
       "amount": 20000000,
       "currency": "USD",
       "announced_at": "2019-03-26",
@@ -122482,7 +122290,7 @@
       "investors": null,
       "source_url": "https://www.prnewswire.com/news-releases/yalber-a-fintech-pioneer-announced-a-new-20-million-credit-investment-300818358.html",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:03:55.617901+00:00"
+      "last_updated": "2026-10-12T13:49:37.731121+00:00"
     },
     {
       "round_id": "aa414952-d54c-4164-b760-2a8b6c034e74",
@@ -123481,7 +123289,7 @@
       "company_name": "DueDil",
       "company_url": "https://buildersinfintech.ai/companies/duedil",
       "round_type": "Unspecified",
-      "category": "equity",
+      "category": "debt",
       "amount": 3500000,
       "currency": "GBP",
       "announced_at": "2019-02-25",
@@ -123490,7 +123298,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2019/02/25/duedil-receives-a-3-5m-loan-from-shawbrook-to-support-growth-plans/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:03:56.783797+00:00"
+      "last_updated": "2026-10-12T13:49:37.731121+00:00"
     },
     {
       "round_id": "59d7f7e3-5ab1-4c06-b781-0a4d1f3d6bec",
@@ -124361,7 +124169,7 @@
       "company_name": "Splitit",
       "company_url": "https://buildersinfintech.ai/companies/splitit",
       "round_type": "IPO",
-      "category": "equity",
+      "category": "ipo",
       "amount": 12000000,
       "currency": "AUD",
       "announced_at": "2019-01-30",
@@ -124370,7 +124178,7 @@
       "investors": null,
       "source_url": "https://thepaypers.com/payments/news/splitit-closes-ipo-raises-aud-12-mln",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:03:56.416573+00:00"
+      "last_updated": "2026-10-12T12:25:22.974207+00:00"
     },
     {
       "round_id": "a790f673-e382-493a-ab24-acedecb5e836",
@@ -124873,7 +124681,7 @@
       "company_name": "Capify",
       "company_url": "https://buildersinfintech.ai/companies/capify",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 75000000,
       "currency": "GBP",
       "announced_at": "2019-01-17",
@@ -124882,7 +124690,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2019/01/17/capify-pulls-in-75m-credit-facility-from-goldman-sachs/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:03:54.893465+00:00"
+      "last_updated": "2026-10-12T13:49:37.731121+00:00"
     },
     {
       "round_id": "68d6903e-b25f-4465-80c4-d20d8e197906",
@@ -125325,7 +125133,7 @@
       "amount": 182000000,
       "currency": "USD",
       "announced_at": "2018-12-31",
-      "country": null,
+      "country": "United States",
       "lead_investors": "Kelly Loeffler",
       "investors": "Kelly Loeffler; Bakkt); ICE’s; York Stock Exchange",
       "source_url": "https://techcrunch.com/2018/12/31/nyse-operators-crypto-project-bakkt-brings-in-182m/",
@@ -125785,7 +125593,7 @@
       "company_name": "Future Family",
       "company_url": "https://buildersinfintech.ai/companies/future-family",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 100000000,
       "currency": "USD",
       "announced_at": "2018-12-12",
@@ -125794,7 +125602,7 @@
       "investors": null,
       "source_url": "https://techcrunch.com/2018/12/12/future-family-secures-a-100m-credit-line-to-help-more-families-with-fertility-care/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:14:10.421312+00:00"
+      "last_updated": "2026-10-12T13:13:53.923207+00:00"
     },
     {
       "round_id": "13955e77-9d91-4c0c-87ff-ebdc5c29b18f",
@@ -126229,22 +126037,6 @@
       "last_updated": "2026-10-08T12:14:11.035784+00:00"
     },
     {
-      "round_id": "6fe37b6d-5e40-454c-93b6-a5c9115e90bd",
-      "company_name": "Stripe",
-      "company_url": "https://buildersinfintech.ai/companies/stripe",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 3000000,
-      "currency": "USD",
-      "announced_at": "2018-11-29",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2018/11/29/startup-aiming-to-become-stripe-of-insurance-sector-gets-3m-venture-capital-investment/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:14:13.038907+00:00"
-    },
-    {
       "round_id": "9e972b81-fba6-4d0c-a218-4a6c8edf8da4",
       "company_name": "Element",
       "company_url": "https://buildersinfintech.ai/companies/element",
@@ -126518,7 +126310,7 @@
     },
     {
       "round_id": "8a509a4d-1a4b-42b1-ad8a-e7f231221aaa",
-      "company_name": "Mineral",
+      "company_name": "Open Mineral",
       "company_url": "https://buildersinfintech.ai/companies/mineral",
       "round_type": "Series B",
       "category": "equity",
@@ -128469,22 +128261,6 @@
       "last_updated": "2026-10-08T12:14:10.421312+00:00"
     },
     {
-      "round_id": "968fd73c-f53a-4633-8436-e72897c62cbe",
-      "company_name": "After",
-      "company_url": "https://buildersinfintech.ai/companies/after",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 25000000,
-      "currency": "USD",
-      "announced_at": "2018-10-17",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://techcrunch.com/2018/10/17/omni-xrp/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:14:11.035784+00:00"
-    },
-    {
       "round_id": "3fa23f7a-c0f5-4c83-94e2-a9ea74f024ca",
       "company_name": "NowRx",
       "company_url": "https://buildersinfintech.ai/companies/nowrx",
@@ -129379,22 +129155,6 @@
       "source_url": "https://fintech.global/2018/09/27/covr-bags-10m-in-series-a/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T12:23:38.533778+00:00"
-    },
-    {
-      "round_id": "f721c1e2-785b-425d-98b8-335ce57bf571",
-      "company_name": "SFOX",
-      "company_url": "https://buildersinfintech.ai/companies/sfox",
-      "round_type": "Series A",
-      "category": "equity",
-      "amount": null,
-      "currency": null,
-      "announced_at": "2018-09-27",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://www.prnewswire.com/news-releases/sfox-adds-litecoin-to-institutional-cryptocurrency-investment-platform-following-series-a-raise-300720040.html",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:23:40.808914+00:00"
     },
     {
       "round_id": "0741ecd2-02d3-4d7e-80a2-114b1fe1090c",
@@ -130563,22 +130323,6 @@
       "source_url": "https://fintech.global/2018/09/01/collibra-closes-58m-series-d-for-data-governance-platform/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T12:23:37.414838+00:00"
-    },
-    {
-      "round_id": "ea13e262-5639-4db0-b1ad-9da88497603d",
-      "company_name": "Clarida",
-      "company_url": "https://buildersinfintech.ai/companies/clarida",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 5000000,
-      "currency": "EUR",
-      "announced_at": "2018-09-01",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2018/09/01/clarida-raises-e5m-to-reach-e100m-valuation-2/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:23:39.161983+00:00"
     },
     {
       "round_id": "7ac2f45f-76f9-4f66-9c29-3fdb326a5511",
@@ -132200,17 +131944,17 @@
       "round_id": "2df9f5be-a6b0-4b2a-b9c1-470db00baa97",
       "company_name": "SatoshiPay",
       "company_url": "https://buildersinfintech.ai/companies/satoshipay",
-      "round_type": "IPO",
+      "round_type": "Unspecified",
       "category": "equity",
-      "amount": null,
-      "currency": null,
+      "amount": 566000,
+      "currency": "EUR",
       "announced_at": "2018-07-26",
       "country": null,
       "lead_investors": null,
       "investors": null,
       "source_url": "https://ffnews.com/news/satoshipay-receives-e566000-investment-from-crypto-specialist-and-targets-london-ipo",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:23:40.808914+00:00"
+      "last_updated": "2026-10-12T14:08:16.003643+00:00"
     },
     {
       "round_id": "4a057a9d-f53f-4fdb-96c1-6538aa06306d",
@@ -132681,16 +132425,16 @@
       "company_name": "Nasdaq",
       "company_url": "https://buildersinfintech.ai/companies/nasdaq",
       "round_type": "IPO",
-      "category": "equity",
+      "category": "ipo",
       "amount": null,
       "currency": null,
       "announced_at": "2018-07-18",
-      "country": null,
+      "country": "United States",
       "lead_investors": null,
       "investors": null,
       "source_url": "https://fintech.global/2018/07/18/pintec-said-to-file-for-70m-ipo-on-nasdaq/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:23:40.808914+00:00"
+      "last_updated": "2026-10-12T13:49:37.731121+00:00"
     },
     {
       "round_id": "d88ee447-8d70-4ba7-a2c1-18c516bda2fe",
@@ -133129,7 +132873,7 @@
       "company_name": "Flexiti",
       "company_url": "https://buildersinfintech.ai/companies/flexiti",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 80000000,
       "currency": "USD",
       "announced_at": "2018-07-09",
@@ -133138,7 +132882,7 @@
       "investors": "Suisse",
       "source_url": "https://fintech.global/2018/07/09/flexiti-picks-up-another-80m-in-debt-financing-from-credit-suisse/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:23:36.985294+00:00"
+      "last_updated": "2026-10-12T14:08:16.003643+00:00"
     },
     {
       "round_id": "7efe3e83-7891-4d52-8244-310a2b93c9f5",
@@ -134665,7 +134409,7 @@
       "company_name": "Behalf",
       "company_url": "https://buildersinfintech.ai/companies/behalf",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 150000000,
       "currency": "USD",
       "announced_at": "2018-06-02",
@@ -134674,7 +134418,7 @@
       "investors": "Soros Fund Management; the MasterCard",
       "source_url": "https://fintech.global/2018/06/02/online-financier-behalf-lands-150m-in-debt-financing/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:34:48.999999+00:00"
+      "last_updated": "2026-10-12T13:36:53.588731+00:00"
     },
     {
       "round_id": "fb2cf747-33dc-4c64-b97c-260256f7175f",
@@ -135065,7 +134809,7 @@
       "company_name": "Adyen",
       "company_url": "https://buildersinfintech.ai/companies/adyen",
       "round_type": "IPO",
-      "category": "equity",
+      "category": "ipo",
       "amount": null,
       "currency": null,
       "announced_at": "2018-05-24",
@@ -135074,7 +134818,7 @@
       "investors": "ICONIQ",
       "source_url": "https://techcrunch.com/2018/05/24/adyen-payments-ipo/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:34:52.549331+00:00"
+      "last_updated": "2026-10-12T13:49:37.731121+00:00"
     },
     {
       "round_id": "94facbd8-2e0e-4d9d-b80e-14011a9b830b",
@@ -135225,7 +134969,7 @@
       "company_name": "Personal Capital",
       "company_url": "https://buildersinfintech.ai/companies/personal-capital",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 15000000,
       "currency": "USD",
       "announced_at": "2018-05-23",
@@ -135234,7 +134978,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2018/05/23/personal-capital-secures-15m-credit-extension-from-silicon-valley-bank/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:34:50.446103+00:00"
+      "last_updated": "2026-10-12T14:08:16.003643+00:00"
     },
     {
       "round_id": "16ca254f-8c77-4ced-98b3-7927cc4ee19a",
@@ -135336,8 +135080,8 @@
       "round_id": "21887751-9f3c-43fe-aeb5-973b2cd5f73b",
       "company_name": "Fundation",
       "company_url": "https://buildersinfintech.ai/companies/fundation",
-      "round_type": "Unspecified",
-      "category": "equity",
+      "round_type": "Credit facility",
+      "category": "debt",
       "amount": 120000000,
       "currency": "USD",
       "announced_at": "2018-05-17",
@@ -135346,7 +135090,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2018/05/17/fundation-secures-120m-credit-facility-from-suntrustbank-to-expand-lending-capacity/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:34:48.999999+00:00"
+      "last_updated": "2026-10-12T14:08:16.003643+00:00"
     },
     {
       "round_id": "7266672b-58ba-4fcb-83fa-000901a0affb",
@@ -135923,22 +135667,6 @@
       "source_url": "https://fintech.global/2018/05/02/constellation-nabs-3m-from-twinstar-credit-union-as-part-of-strategic-partnership/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T12:34:51.732474+00:00"
-    },
-    {
-      "round_id": "2f065844-fd5d-401c-ab9d-bc3a123fe636",
-      "company_name": "Wealthfront",
-      "company_url": "https://buildersinfintech.ai/companies/wealthfront",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 75000000,
-      "currency": "USD",
-      "announced_at": "2018-05-01",
-      "country": null,
-      "lead_investors": "Tiger Global",
-      "investors": "Tiger Global",
-      "source_url": "https://fintech.global/2018/05/01/wealthfront-nets-75m-in-latest-round-led-by-tiger-global/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:34:48.999999+00:00"
     },
     {
       "round_id": "62247071-e5c3-4031-87bc-0decab75f455",
@@ -137285,22 +137013,6 @@
       "last_updated": "2026-10-08T12:34:49.280881+00:00"
     },
     {
-      "round_id": "ee825eea-2d3f-493e-bd96-6f43e0a58f4c",
-      "company_name": "Prasos",
-      "company_url": "https://buildersinfintech.ai/companies/prasos",
-      "round_type": "Crowdfunding",
-      "category": "equity",
-      "amount": 2500000,
-      "currency": "EUR",
-      "announced_at": "2018-04-01",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2018/04/01/prasos-raises-e2-5m-to-support-european-expansion/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:34:51.732474+00:00"
-    },
-    {
       "round_id": "35e3cdf2-0859-4595-af0d-0e2fb2789980",
       "company_name": "Branch International",
       "company_url": "https://buildersinfintech.ai/companies/branch-international",
@@ -137331,22 +137043,6 @@
       "source_url": "https://fintech.global/2018/03/29/flipside-crypto-bags-3-4m-funding-led-by-true-ventures/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T12:42:10.365879+00:00"
-    },
-    {
-      "round_id": "6e4b4a06-78c7-4f6a-91c6-b74c8a9ed301",
-      "company_name": "TD Bank",
-      "company_url": "https://buildersinfintech.ai/companies/td-bank",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 20000000,
-      "currency": null,
-      "announced_at": "2018-03-29",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://ffnews.com/news/td-bank-group-announces-intention-to-repurchase-for-cancellation-up-to-20-million-of-its-common-shares",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:42:08.785655+00:00"
     },
     {
       "round_id": "c49acf6e-bcbe-45e0-b9a1-10c0db02f229",
@@ -138857,7 +138553,7 @@
       "company_name": "Yalber",
       "company_url": "https://buildersinfintech.ai/companies/yalber",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 20000000,
       "currency": "USD",
       "announced_at": "2018-02-23",
@@ -138866,7 +138562,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2018/02/23/online-lending-platform-yalber-bags-20m-credit-facility/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:42:08.785655+00:00"
+      "last_updated": "2026-10-12T13:49:37.731121+00:00"
     },
     {
       "round_id": "fe2be501-c285-4ea6-8080-548ecff74917",
@@ -139433,7 +139129,7 @@
       "company_name": "PayJoy",
       "company_url": "https://buildersinfintech.ai/companies/payjoy",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 20000000,
       "currency": "USD",
       "announced_at": "2018-02-11",
@@ -139442,7 +139138,7 @@
       "investors": "Arc Labs",
       "source_url": "https://fintech.global/2018/02/11/payjoy-pulls-in-20m-debt-financing-from-arc-labs/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:42:08.785655+00:00"
+      "last_updated": "2026-10-12T14:08:16.003643+00:00"
     },
     {
       "round_id": "5df0ce28-abe5-4e1b-a11b-8d4c894a4857",
@@ -141429,22 +141125,6 @@
       "last_updated": "2026-10-08T12:59:49.229237+00:00"
     },
     {
-      "round_id": "f7d41af6-0d82-424b-88d2-b87b5e7574c9",
-      "company_name": "GreenJinn",
-      "company_url": "https://buildersinfintech.ai/companies/greenjinn",
-      "round_type": "Seed",
-      "category": "equity",
-      "amount": 670000,
-      "currency": "USD",
-      "announced_at": "2017-12-14",
-      "country": null,
-      "lead_investors": null,
-      "investors": "Guerrino De Luca; Jack Wills CEO Wendy Becker; Logitech CEO",
-      "source_url": "https://fintech.global/2017/12/14/greenjinn-bags-670k-seed-round-on-crowdcube/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:59:51.247282+00:00"
-    },
-    {
       "round_id": "783e9b79-242f-409e-a0ae-153d80294580",
       "company_name": "iZettle",
       "company_url": "https://buildersinfintech.ai/companies/izettle",
@@ -141683,38 +141363,6 @@
       "source_url": "https://fintech.global/2017/12/09/smartphone-financing-platform-payjoy-closes-6m-investment/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T12:59:50.030046+00:00"
-    },
-    {
-      "round_id": "42452a1c-59dd-4b9d-b91a-f2b5194fa3da",
-      "company_name": "Pineapple Payments",
-      "company_url": "https://buildersinfintech.ai/companies/pineapple-payments",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 35000000,
-      "currency": "USD",
-      "announced_at": "2017-12-09",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2017/12/09/pineapple-payments-receives-35m-financing-round/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:59:48.814203+00:00"
-    },
-    {
-      "round_id": "db088b71-b203-42da-be33-1e60e3655e51",
-      "company_name": "Linxo",
-      "company_url": "https://buildersinfintech.ai/companies/linxo",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 20000000,
-      "currency": "EUR",
-      "announced_at": "2017-12-09",
-      "country": null,
-      "lead_investors": null,
-      "investors": "BforBank; Fortuneo; HSBC; MAIF",
-      "source_url": "https://fintech.global/2017/12/09/finance-management-platform-linxo-receives-e20m-funding/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:59:48.814203+00:00"
     },
     {
       "round_id": "b5c607cb-1ce7-49f1-831c-69ca60990fe6",
@@ -142389,22 +142037,6 @@
       "last_updated": "2026-10-08T12:59:48.814203+00:00"
     },
     {
-      "round_id": "5d375a87-8822-4962-9241-007b96cf4bf8",
-      "company_name": "Pulls Disappearing Act After",
-      "company_url": "https://buildersinfintech.ai/companies/pulls-disappearing-act-after",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 375000,
-      "currency": "USD",
-      "announced_at": "2017-11-21",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://www.pymnts.com/digital-payments/2017/bitcoin-confido-disappears-after-raising-375k-in-cryptocurrency-scam/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:59:51.247282+00:00"
-    },
-    {
       "round_id": "15ab0597-6a68-4f2a-94ad-96fbd28e2a52",
       "company_name": "TransferMate",
       "company_url": "https://buildersinfintech.ai/companies/transfermate",
@@ -142598,8 +142230,8 @@
     },
     {
       "round_id": "0f125556-8c98-4673-9e77-b01ebc79708b",
-      "company_name": "Canopy",
-      "company_url": "https://buildersinfintech.ai/companies/canopy",
+      "company_name": "Canopy (UK)",
+      "company_url": "https://buildersinfintech.ai/companies/canopy-uk",
       "round_type": "Unspecified",
       "category": "equity",
       "amount": 1600000,
@@ -142610,7 +142242,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2017/11/13/canopy-receives-another-round-of-equity-following-recent-1-6m-round/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:59:50.741818+00:00"
+      "last_updated": "2026-10-12T08:17:47.219536+00:00"
     },
     {
       "round_id": "b9f736ed-bb06-4152-8cb4-c21909468f7a",
@@ -144179,22 +143811,6 @@
       "source_url": "https://tech.eu/2017/10/04/salaryfinance-funding/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T12:59:48.443846+00:00"
-    },
-    {
-      "round_id": "8b477ade-a7bb-44f3-abed-00a448b248f0",
-      "company_name": "BrickVest",
-      "company_url": "https://buildersinfintech.ai/companies/brickvest",
-      "round_type": "Series A",
-      "category": "equity",
-      "amount": 7000000,
-      "currency": "GBP",
-      "announced_at": "2017-10-04",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://tech.eu/2017/10/04/brickvest-funding/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T12:59:49.68715+00:00"
     },
     {
       "round_id": "4a5c2d44-4ad4-4d78-b1f5-f33b447b451b",
@@ -145987,22 +145603,6 @@
       "source_url": "https://fintech.global/2017/07/27/delio-bags-250k-loan-to-launch-new-manchester-office/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T13:15:16.29814+00:00"
-    },
-    {
-      "round_id": "56bf8747-4db7-426e-973f-8aef09e85ac5",
-      "company_name": "After",
-      "company_url": "https://buildersinfintech.ai/companies/after",
-      "round_type": "Unspecified",
-      "category": "equity",
-      "amount": 70000000,
-      "currency": "USD",
-      "announced_at": "2017-07-26",
-      "country": null,
-      "lead_investors": "Kinnevik AB",
-      "investors": "Kinnevik AB; Betterment",
-      "source_url": "https://techcrunch.com/2017/07/26/betterment-financial-advice/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T13:15:12.857996+00:00"
     },
     {
       "round_id": "5771c6f8-2e54-4b16-8b5c-98e711f6201a",
@@ -148009,7 +147609,7 @@
       "company_name": "Bitbond",
       "company_url": "https://buildersinfintech.ai/companies/bitbond",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 5000000,
       "currency": "EUR",
       "announced_at": "2017-05-10",
@@ -148018,7 +147618,7 @@
       "investors": "Obitritia",
       "source_url": "https://www.eu-startups.com/2017/05/blockchain-based-sme-lending-platform-bitbond-receives-e5-million-debt-commitment/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T13:18:41.220934+00:00"
+      "last_updated": "2026-10-12T14:08:16.003643+00:00"
     },
     {
       "round_id": "cc91ef54-5e66-4f2b-a716-5af9abd67fa5",
@@ -148179,22 +147779,6 @@
       "source_url": "https://fintech.global/2017/05/04/monzo-closes-22m-round-with-2-5m-in-crowdfunding/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T13:18:39.951835+00:00"
-    },
-    {
-      "round_id": "605f5b7b-a0ba-4e5b-a342-2599688cccf6",
-      "company_name": "ShapeShift",
-      "company_url": "https://buildersinfintech.ai/companies/shapeshift",
-      "round_type": "Series A",
-      "category": "equity",
-      "amount": 10400000,
-      "currency": "USD",
-      "announced_at": "2017-05-04",
-      "country": null,
-      "lead_investors": "VC Earlybird",
-      "investors": "VC Earlybird",
-      "source_url": "https://fintech.global/2017/05/04/shapeshift-nabs-10-4m-for-digital-asset-exchanges/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T13:18:40.862276+00:00"
     },
     {
       "round_id": "6fd453b6-307f-4830-a97b-77bc5e5a8146",
@@ -148833,22 +148417,6 @@
       "lead_investors": null,
       "investors": null,
       "source_url": "https://fintech.global/2017/04/05/indonesian-bill-payment-app-ayopop-secures-1m-seed-round/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T13:18:41.539399+00:00"
-    },
-    {
-      "round_id": "cddd858b-ef0d-457d-be07-995a497da8c5",
-      "company_name": "Otherwise",
-      "company_url": "https://buildersinfintech.ai/companies/otherwise",
-      "round_type": "Seed",
-      "category": "equity",
-      "amount": 1600000,
-      "currency": "EUR",
-      "announced_at": "2017-04-05",
-      "country": null,
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2017/04/05/french-insurtech-otherwise-grabs-e1-6m-seed-round/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T13:18:41.539399+00:00"
     },
@@ -149987,22 +149555,6 @@
       "source_url": "https://fintech.global/2017/02/15/jakarta-based-pos-moka-lands-2m-in-mandiri-led-round/",
       "coverage_source": "archive",
       "last_updated": "2026-10-08T13:20:39.478302+00:00"
-    },
-    {
-      "round_id": "3f5d6d19-4f8a-4b6b-a869-3218378c82a3",
-      "company_name": "Float",
-      "company_url": "https://buildersinfintech.ai/companies/float",
-      "round_type": "Angel",
-      "category": "equity",
-      "amount": 3000000,
-      "currency": "USD",
-      "announced_at": "2017-02-13",
-      "country": "Canada",
-      "lead_investors": null,
-      "investors": null,
-      "source_url": "https://fintech.global/2017/02/13/float-grabs-3m-for-millennial-credit-lending/",
-      "coverage_source": "archive",
-      "last_updated": "2026-10-08T13:20:38.92437+00:00"
     },
     {
       "round_id": "90669a2d-4a81-4b73-8841-c34a675f41a8",
@@ -153241,7 +152793,7 @@
       "company_name": "RealtyShares",
       "company_url": "https://buildersinfintech.ai/companies/realtyshares",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 30000000,
       "currency": "USD",
       "announced_at": "2016-09-13",
@@ -153250,7 +152802,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2016/09/13/realtyshares-secures-30m-credit-lien-to-pre-fund-properties/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T13:35:02.718574+00:00"
+      "last_updated": "2026-10-12T14:08:16.003643+00:00"
     },
     {
       "round_id": "53ab0bf4-b39f-4b70-b8a3-f2544840f2f4",
@@ -153417,7 +152969,7 @@
       "company_name": "Northzone",
       "company_url": "https://buildersinfintech.ai/companies/northzone",
       "round_type": "Fund",
-      "category": "equity",
+      "category": "fund",
       "amount": 335000000,
       "currency": "USD",
       "announced_at": "2016-09-05",
@@ -153426,7 +152978,7 @@
       "investors": "iZettle; Klarna; Market Invoice)",
       "source_url": "https://fintech.global/2016/09/05/northzone-closes-new-335m-fund-for-european-fintech/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T13:35:01.214909+00:00"
+      "last_updated": "2026-10-12T09:28:25.643758+00:00"
     },
     {
       "round_id": "bf86e9a1-af62-4816-86fb-59b4d657a07b",
@@ -153641,7 +153193,7 @@
       "company_name": "Fundation",
       "company_url": "https://buildersinfintech.ai/companies/fundation",
       "round_type": "Debt",
-      "category": "equity",
+      "category": "debt",
       "amount": 100000000,
       "currency": "USD",
       "announced_at": "2016-08-24",
@@ -153650,7 +153202,7 @@
       "investors": null,
       "source_url": "https://fintech.global/2016/08/24/fundation-lands-100m-credit-facility-from-goldman-sachs/",
       "coverage_source": "archive",
-      "last_updated": "2026-10-08T13:35:01.214909+00:00"
+      "last_updated": "2026-10-12T14:08:16.003643+00:00"
     },
     {
       "round_id": "1499d677-4fae-47ff-9347-b829c9175a12",
