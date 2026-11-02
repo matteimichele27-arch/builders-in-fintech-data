@@ -1,6 +1,8 @@
 
 # Builders in Fintech — Fintech Funding Rounds, Companies and Investors
 
+**Builders in Fintech — global fintech news and funding database by Michele Mattei.** https://buildersinfintech.ai
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23065299.svg)](https://doi.org/10.5281/zenodo.23065299)
 
 An editorially curated, sourced dataset of fintech funding rounds worldwide, with the companies that raised and the investors that took part. It is the public export of the database behind [Builders in Fintech](https://buildersinfintech.ai), a fintech news publication, weekly newsletter and podcast run by Michele Mattei.
